@@ -5,35 +5,35 @@ Este repositorio contiene mis investigaciones, análisis forenses y ejercicios p
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
-### 🔹 Memory-Forensics/
+###  Memory-Forensics/
 Casos prácticos de análisis de memoria RAM utilizando Volatility 3, DumpIt y otras herramientas. Incluye informes PDF, capturas y hallazgos.
 
-### 🔹 Disk-Forensics/
+###  Disk-Forensics/
 Investigaciones de discos, artefactos de Windows, timelines, extracción de evidencias y análisis con Autopsy, FTK Imager y herramientas de Eric Zimmerman.
 
-### 🔹 Malware-Analysis/
+###  Malware-Analysis/
 Análisis básico y dinámico de malware: PEStudio, Ghidra, Cuckoo Sandbox, YARA, cadenas, comportamiento y red.
 
-### 🔹 Incident-Response/
+###  Incident-Response/
 Casos completos DFIR incluyendo triage, análisis de disco, memoria, generación de IOCs y recomendaciones técnicas.
 
-### 🔹 Timelines/
+###  Timelines/
 Investigaciones temporales con TSK, log2timeline, KAPE y herramientas de timeline forensics.
 
-### 🔹 Reports/
+###  Reports/
 Informes profesionales redactados en formato técnico y/o pericial digital.
 
-### 🔹 Scripts/
+###  Scripts/
 Scripts en Python, PowerShell o Bash utilizados para parsing de logs, timelines u otras automatizaciones.
 
-### 🔹 Captures/
+###  Captures/
 Capturas de pantalla y evidencias extraídas durante las investigaciones.
 
 ---
 
-## 🎯 Objetivo del portfolio
+##  Objetivo del portfolio
 Demostrar habilidades reales en:
 
 - Análisis de memoria (Volatility)
@@ -48,6 +48,6 @@ Este portfolio está construido únicamente con materiales de laboratorio y reto
 
 ---
 
-## 📌 Estado actual
+##  Estado actual
 Este repositorio está en construcción y se irá actualizando con nuevos casos, informes y herramientas.
 
