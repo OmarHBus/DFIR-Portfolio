@@ -1,0 +1,52 @@
+Volatility 3 Framework 2.27.0
+
+PID	Process	Args
+
+4	System	-
+248	smss.exe	\SystemRoot\System32\smss.exe
+320	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+368	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+376	psxss.exe	%SystemRoot%\system32\psxss.exe
+416	winlogon.exe	winlogon.exe
+424	wininit.exe	wininit.exe
+484	services.exe	C:\Windows\system32\services.exe
+492	lsass.exe	C:\Windows\system32\lsass.exe
+500	lsm.exe	C:\Windows\system32\lsm.exe
+588	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch
+652	VBoxService.ex	C:\Windows\System32\VBoxService.exe
+720	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS
+816	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+852	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+876	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs
+472	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService
+1044	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService
+1208	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+1248	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+1372	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+1416	TCPSVCS.EXE	C:\Windows\System32\tcpsvcs.exe
+1508	sppsvc.exe	C:\Windows\system32\sppsvc.exe
+948	svchost.exe	C:\Windows\System32\svchost.exe -k secsvcs
+1856	wmpnetwk.exe	"C:\Program Files\Windows Media Player\wmpnetwk.exe"
+480	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+296	taskhost.exe	"taskhost.exe"
+1988	dwm.exe	"C:\Windows\system32\Dwm.exe"
+604	explorer.exe	C:\Windows\Explorer.EXE
+1844	VBoxTray.exe	"C:\Windows\System32\VBoxTray.exe" 
+2064	audiodg.exe	C:\Windows\system32\AUDIODG.EXE 0x20c
+2368	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServicePeerNet
+1984	cmd.exe	"C:\Windows\system32\cmd.exe" 
+2692	conhost.exe	\??\C:\Windows\system32\conhost.exe
+2424	mspaint.exe	"C:\Windows\system32\mspaint.exe" 
+2660	svchost.exe	C:\Windows\system32\svchost.exe -k imgsvc
+2760	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+2808	winlogon.exe	winlogon.exe
+2908	taskhost.exe	"taskhost.exe"
+3004	dwm.exe	"C:\Windows\system32\Dwm.exe"
+2504	explorer.exe	C:\Windows\Explorer.EXE
+2304	VBoxTray.exe	"C:\Windows\System32\VBoxTray.exe" 
+2524	SearchProtocol	"C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-3073570648-3149397540-2269648332-10032_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-3073570648-3149397540-2269648332-10032 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"  "1"
+1720	SearchFilterHo	"C:\Windows\system32\SearchFilterHost.exe" 0 508 512 520 65536 516 
+1512	WinRAR.exe	"C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\Alissa Simpson\Documents\Important.rar"
+2868	SearchProtocol	"C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe3_ Global\UsGthrCtrlFltPipeMssGthrPipe3 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon" 
+796	DumpIt.exe	"C:\Users\SmartNet\Downloads\DumpIt\DumpIt.exe" 
+2260	conhost.exe	\??\C:\Windows\system32\conhost.exe

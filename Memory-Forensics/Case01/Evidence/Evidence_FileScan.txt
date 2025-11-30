@@ -1,0 +1,2459 @@
+Volatility 3 Framework 2.27.0
+
+Offset	Name
+
+0x3e801310	\MsFteWds
+0x3e809610	\Windows\System32\dot3api.dll
+0x3e80b9f0	\Endpoint
+0x3e80bf20	\Endpoint
+0x3e80c070	\Windows\System32\eappcfg.dll
+0x3e80fb00	\Windows\ehome\ehepgres.dll
+0x3e8105e0	\Users\Alissa Simpson\Links\desktop.ini
+0x3e811220	\Users\Alissa Simpson\Favorites\desktop.ini
+0x3e811370	\Users\Alissa Simpson\Downloads\desktop.ini
+0x3e811df0	\Windows\System32\SearchFolder.dll
+0x3e813070	\Windows\System32\p2pcollab.dll
+0x3e813260	\Windows\System32\ListSvc.dll
+0x3e813bf0	\Windows\System32\mssitlb.dll
+0x3e813d40	\Windows\System32\en-US\FirewallAPI.dll.mui
+0x3e815f20	\Windows\System32\wlanhlp.dll
+0x3e817070	\Users\Alissa Simpson\Favorites\Links for United States\desktop.ini
+0x3e8179c0	\Windows\System32\winevt\Logs\Microsoft-Windows-HomeGroup Provider Service%4Operational.evtx
+0x3e817ea0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x3e818440	\Windows\System32
+0x3e819f20	\Windows\System32\pnrpsvc.dll
+0x3e81d160	\Endpoint
+0x3e821ae0	\Windows\System32\wlanutil.dll
+0x3e823530	\Windows\System32\QAGENTRT.DLL
+0x3e824070	\Endpoint
+0x3e825b70	\Windows\System32\SearchProtocolHost.exe
+0x3e826070	\Windows\System32\onex.dll
+0x3e826af0	\Windows\ServiceProfiles\LocalService\AppData\Roaming\PeerNetworking\idstore.sst
+0x3e827ae0	\$Directory
+0x3e8288a0	\ProgramData\Microsoft\Crypto\RSA\MachineKeys\70c33714c1abfbe0e9eb6a98b63f0b36_b6e5f7b3-603d-49bb-9907-2d447987b31a
+0x3e828f20	\Windows\System32\eappprxy.dll
+0x3e829100	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x3e82aaa0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x3e82bb30	\Windows\System32\msshooks.dll
+0x3e82d2a0	\Windows\System32\StructuredQuery.dll
+0x3e82e480	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows PowerShell\Windows PowerShell (x86).lnk
+0x3e82e930	\Windows\System32\Microsoft\Protect\S-1-5-18\Preferred
+0x3e82ee60	\$Directory
+0x3e82f600	\Windows\System32\en-US\mssvp.dll.mui
+0x3e830a20	\Windows\System32\wuapp.exe
+0x3e830b70	\Windows\System32\wscinterop.dll
+0x3e831110	\$Directory
+0x3e832660	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3e8327b0	\Windows\System32\wuauclt.exe
+0x3e832900	\Windows\System32\werconcpl.dll
+0x3e834b40	\Windows\System32\SearchFilterHost.exe
+0x3e835b60	\Windows\System32\mscoree.dll
+0x3e837070	\Windows\System32\NaturalLanguage6.dll
+0x3e8383d0	\Windows\System32\en-US\dnsapi.dll.mui
+0x3e838680	\Windows\System32\IdListen.dll
+0x3e838dc0	\Windows\System32\mapi32.dll
+0x3e83b630	\Users\Alissa Simpson\Pictures\desktop.ini
+0x3e83c740	\Program Files\Windows Media Player\en-US\wmpnscfg.exe.mui
+0x3e83d320	\Windows\System32\fveui.dll
+0x3e83e070	\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\Console RAR manual.lnk
+0x3e83e230	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Magnify.lnk
+0x3e83e450	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3e83edc0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\1041748285595fb8.customDestinations-ms
+0x3e8407c0	\Windows\System32\hgprint.dll
+0x3e8438c0	\Windows\ServiceProfiles\LocalService\AppData\Roaming\PeerNetworking\idstore.sst.new
+0x3e844700	\Windows\System32\p2psvc.dll
+0x3e844c30	\Windows\System32\UIAnimation.dll
+0x3e846940	\Windows\System32\mssvp.dll
+0x3e8493d0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Print Management.lnk
+0x3e849f20	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\337ed59af273c758.customDestinations-ms
+0x3e84a070	\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Computer Management.lnk
+0x3e84ace0	\Windows\System32\P2PGraph.dll
+0x3e84c990	\Windows\System32\WWanAPI.dll
+0x3e84ce90	\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\SystemCertificates\My\Certificates\7BB81AC141230E70E03D8F881C28B39C783CCD00
+0x3e8505e0	\Program Files\Windows Media Player\wmpnscfg.exe
+0x3e8518a0	\Windows\System32\es.dll
+0x3e851a80	\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnostics-Performance%4Operational.evtx
+0x3e852070	\Users\Alissa Simpson\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+0x3e852510	\$Directory
+0x3e852b70	\Windows\System32\drttransport.dll
+0x3e855ba0	\$Directory
+0x3e8562f0	\Program Files\Windows Media Player\wmpnssci.dll
+0x3e856d00	\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\SystemCertificates\My
+0x3e85b070	\Endpoint
+0x3e85b620	\Windows\System32\en-US\p2psvc.dll.mui
+0x3e85bdd0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\UsrClass.dat
+0x3e85bf20	\Windows\System32\wwapi.dll
+0x3e85e410	\Windows\SERVIC~2\LOCALS~1\AppData\Roaming\PEERNE~1\633E84~1.HOM\397786~1\grouping\tmp.edb
+0x3e85e8a0	\Windows\System32\AdapterTroubleshooter.exe
+0x3e85f840	\Endpoint
+0x3e860070	\ProgramData\Microsoft\Crypto\RSA\MachineKeys\325e532bbdc789da6ab5e9368c8fd719_b6e5f7b3-603d-49bb-9907-2d447987b31a
+0x3e860d50	\ProgramData\Microsoft\Crypto\RSA\MachineKeys\395c313ac58a1378ef8960b5fc447dd6_b6e5f7b3-603d-49bb-9907-2d447987b31a
+0x3e861070	\Windows\System32\QAGENT.DLL
+0x3e861d00	\Windows\System32\cryptnet.dll
+0x3e862dd0	\Windows\SERVIC~2\LOCALS~1\AppData\Roaming\PEERNE~1\633E84~1.HOM\397786~1\grouping\edb.log
+0x3e862f20	\Windows\ServiceProfiles\LocalService\AppData\Roaming\PeerNetworking\8447695ec9feca67deb251c3d402899d.sst
+0x3e863940	\Windows\System32\winevt\Logs\Microsoft-Windows-Known Folders API Service.evtx
+0x3e8652d0	\Windows\System32\Microsoft\Protect\S-1-5-18\User\411ac4c0-623b-4bbb-881d-1d479dac34fa
+0x3e865a20	\Users\Alissa Simpson\Music\desktop.ini
+0x3e8661b0	\$Directory
+0x3e866590	\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-19\7e22207fe9846926e18c29d3e675240e_b6e5f7b3-603d-49bb-9907-2d447987b31a
+0x3e8668b0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\5afe4de1b92fc382.customDestinations-ms
+0x3e866f20	\Users\SmartNet\Links
+0x3e8689a0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3e86a0f0	\Endpoint
+0x3e86b310	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.ci
+0x3e86b5e0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.wid
+0x3e86d190	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\INDEX.001
+0x3e86d2e0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.ci
+0x3e86d9a0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.dir
+0x3e86f570	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.dir
+0x3e870e00	\$Directory
+0x3e871600	\Windows\SERVIC~2\LOCALS~1\AppData\Roaming\PEERNE~1\633E84~1.HOM\397786~1\grouping\db.mdb
+0x3e871750	\Windows\SERVIC~2\LOCALS~1\AppData\Roaming\PEERNE~1\633E84~1.HOM\397786~1\grouping\db.mdb
+0x3e872380	\Windows\SERVIC~2\LOCALS~1\AppData\Roaming\PEERNE~1\633E84~1.HOM\397786~1\grouping\edb.chk
+0x3e872820	\Windows\System32\drt.dll
+0x3e87e070	\Users\SmartNet\Downloads\DumpIt
+0x3e87ea40	\Windows\Fonts\StaticCache.dat
+0x3e8a06d0	\Endpoint
+0x3e8a0b20	\Windows\System32\keyiso.dll
+0x3e8a2790	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_a4d6a923711520a9
+0x3e8a2f20	\Users\Alissa Simpson\Saved Games\desktop.ini
+0x3e8a95c0	\Windows\System32\Microsoft\Protect\S-1-5-19\Preferred
+0x3e8a9710	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3e8aa070	\Users\Alissa Simpson\Videos\desktop.ini
+0x3e8aa8a0	\Windows\winsxs\FileMaps\$$.cdf-ms
+0x3e8aac40	\Users\SmartNet\AppData\Local\Microsoft\Windows\1033\StructuredQuerySchema.bin
+0x3e8abf20	\Users\Alissa Simpson\Searches\desktop.ini
+0x3e8ac370	\ProgramData\Microsoft\Crypto\Keys\075b3649dfcfbf4419375e74424ddab2_b6e5f7b3-603d-49bb-9907-2d447987b31a
+0x3e8ad2e0	\ProgramData\Microsoft\IlsCache\ilrcache.xml
+0x3e8af350	\Windows\System32\wscui.cpl
+0x3e8b09c0	\Endpoint
+0x3e8b12d0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Mahjong.lnk
+0x3e8b1420	\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Minesweeper.lnk
+0x3e8b26b0	\$Directory
+0x3e8b2a20	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Private Character Editor.lnk
+0x3e8b2c50	\Windows\System32\C_950.NLS
+0x3e8b2ea0	\Windows\debug\WIA\wiatrace.log
+0x3e8b3280	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x3e8b57c0	\Windows\System32
+0x3e8b63e0	\$Directory
+0x3e8b97d0	\Windows\System32\wiatrace.dll
+0x3ea00bb0	\Windows\System32\PortableDeviceApi.dll
+0x3ea01510	\Endpoint
+0x3ea01cc0	\Endpoint
+0x3ea02320	\Windows\inf\netsstpt.PNF
+0x3ea02770	\Windows\System32\wbem\MOF
+0x3ea02b20	\Program Files (x86)\desktop.ini
+0x3ea02dd0	\Windows\System32\drivers\ntfs.sys
+0x3ea02f20	\Windows\System32\wbem\WmiDcPrv.dll
+0x3ea03700	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Inventory.evtx
+0x3ea03a70	\Windows\System32\LogFiles\Scm\ac4e5acf-89f7-4220-ba21-81ee183975e2
+0x3ea04050	\Windows\System32\drivers\cng.sys
+0x3ea04350	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Problem-Steps-Recorder.evtx
+0x3ea04740	\Windows\System32\Tasks\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem
+0x3ea04cd0	\Windows\System32\stdole2.tlb
+0x3ea04e20	\Windows\System32\Tasks\Microsoft\Windows\PerfTrack\BackgroundConfigSurveyor
+0x3ea054d0	\Windows\System32\LogFiles\Scm\ac668097-4d6b-4093-ac14-014c09dbf820
+0x3ea06640	\Endpoint
+0x3ea06db0	\Endpoint
+0x3ea07520	\Windows\System32\msxml6.dll
+0x3ea08200	\Windows\System32\ntdsapi.dll
+0x3ea089e0	\Windows\System32\sscore.dll
+0x3ea08f20	\Windows\System32\drivers\VBoxGuest.sys
+0x3ea095f0	\Windows\System32\wpdbusenum.dll
+0x3ea09dc0	\Windows\System32\LogFiles\Scm\b0cbab43-44fc-469b-a4ce-87426761fdce
+0x3ea0a070	\Windows\System32\netmsg.dll
+0x3ea0a3a0	\Windows\System32\Tasks\Microsoft\Windows\Diagnosis\Scheduled
+0x3ea0ab30	\Windows\System32\wbem\WinMgmtR.dll
+0x3ea0b6f0	\Endpoint
+0x3ea0bea0	\Endpoint
+0x3ea0da70	\Windows\System32\drivers\ndis.sys
+0x3ea0dc90	\Endpoint
+0x3ea0e450	\Winsock2\CatalogChangeListener-1e4-0
+0x3ea0ed00	\Windows\System32\LogFiles\Scm\c7cf5c83-942c-4add-9ec3-24fb232082bd
+0x3ea0ef20	\Windows\System32\Tasks\Microsoft\Windows\RemoteAssistance\RemoteAssistanceTask
+0x3ea0f480	\Windows\System32\resutils.dll
+0x3ea0fbc0	\Windows\System32\Tasks\Microsoft\Windows\Registry\RegIdleBackup
+0x3ea10570	\Endpoint
+0x3ea10ce0	\Endpoint
+0x3ea111c0	\Windows\System32\LogFiles\Scm\ca4b8ff2-a4d2-4d88-a52e-3a5bdaf7f56e
+0x3ea115c0	\Windows\System32\LogFiles\Scm\cb3d64bf-c0c9-45ff-bfb0-ff1a8f680186
+0x3ea11d10	\srvsvc
+0x3ea124e0	\Windows\System32\wbem\wbemprox.dll
+0x3ea12890	\Windows\System32\clusapi.dll
+0x3ea14c90	\Windows\System32\diagperf.dll
+0x3ea153f0	\Windows\System32\en-US\lsm.exe.mui
+0x3ea15960	\Windows\System32\drivers\compbatt.sys
+0x3ea161a0	\Windows\System32\drivers\volmgr.sys
+0x3ea162f0	\Windows\System32\browser.dll
+0x3ea16500	\Windows\System32\ssdpapi.dll
+0x3ea16c70	\Windows\System32\srvsvc.dll
+0x3ea17440	\Windows\System32\drivers\volmgrx.sys
+0x3ea19340	\Windows\System32\Tasks\Microsoft\Windows\MemoryDiagnostic\CorruptionDetector
+0x3ea1a420	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories
+0x3ea1a7b0	\Windows\System32\drivers\tcpip.sys
+0x3ea1b400	\Windows\System32\en-US\KernelBase.dll.mui
+0x3ea1bc10	\Windows\System32\drivers\FWPKCLNT.SYS
+0x3ea1bd60	\Windows\System32\drivers\spldr.sys
+0x3ea1c170	\Windows\System32\config\systemprofile\AppData\Roaming\Microsoft\SystemCertificates\My
+0x3ea1daa0	\Windows\System32\tdh.dll
+0x3ea22210	\Windows\System32\en-US\tquery.dll.mui
+0x3ea244e0	\Windows\System32\LogFiles\Scm\cee64558-e1a7-4d9d-80a7-2001912be5b5
+0x3ea25740	\Windows\System32\Tasks\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTask
+0x3ea26c70	\Windows\System32\drivers\vmstorfl.sys
+0x3ea275c0	\Windows\System32\drivers\volsnap.sys
+0x3ea287e0	\
+0x3ea2a320	\Windows\System32\catroot2\edb.log
+0x3ea2a580	\Windows\System32\drivers\rdyboost.sys
+0x3ea2a8f0	\Windows\System32\Tasks\Microsoft\Windows\Maintenance\WinSAT
+0x3ea2acd0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu
+0x3ea2af20	\Windows\System32\Tasks\Microsoft\Windows\Media Center\PBDADiscoveryW2
+0x3ea2c500	\Windows\System32\LogFiles\Scm\da41de71-8431-42fb-9db0-eb64a961dead
+0x3ea2c7a0	\Windows\System32\wbem\wbemcore.dll
+0x3ea2ca40	\Windows\System32\LogFiles\Scm\cfce87c8-ef22-4de5-a680-7b44dffce8f9
+0x3ea2f5b0	\Endpoint
+0x3ea2f6e0	\Windows\System32\drivers\mup.sys
+0x3ea34df0	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-StoreMgr%4Operational.evtx
+0x3ea34f20	\
+0x3ea35f20	\Windows\System32\drivers\hwpolicy.sys
+0x3ea36d10	\Windows\System32\LogFiles\Scm\dd9f510c-95f4-499a-90c8-bac5bc372ff4
+0x3ea37350	\Windows\System32\drivers\fvevol.sys
+0x3ea38dd0	\Windows\System32\wbem\esscli.dll
+0x3ea39500	\Endpoint
+0x3ea399d0	\Windows\System32\drivers\disk.sys
+0x3ea3c380	\Windows\System32\drivers\Classpnp.sys
+0x3ea3ccb0	\Endpoint
+0x3ea3ea20	\Windows\System32\catroot2\edb.chk
+0x3ea3f2c0	\Windows\System32\Tasks\Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange
+0x3ea41dd0	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{608A0B1C-8E90-4C9C-9DD8-EBA5B9568D64}
+0x3ea427e0	\Windows\System32\Tasks\Microsoft\Windows\Bluetooth\UninstallDeviceTask
+0x3ea42b50	\Windows\System32\LogFiles\Scm\e22a8667-f75b-4ba9-ba46-067ed4429de8
+0x3ea46070	\Windows\System32\d3d10_1.dll
+0x3ea4a070	\Windows\System32\wbem\wbemsvc.dll
+0x3ea4a580	\Windows\System32\netcfgx.dll
+0x3ea4ab80	\Windows\System32\Tasks\Microsoft\Windows\RAC\RacTask
+0x3ea4c670	\Windows\System32\LogFiles\Scm\e3163c33-301d-4730-a266-5518c5ed3967
+0x3ea4e650	\Windows\System32\Tasks\Microsoft\Windows\MemoryDiagnostic\DecompressionFailureDetector
+0x3ea4ed40	\Windows\System32\Tasks\Microsoft\Windows\Media Center\ObjectStoreRecoveryTask
+0x3ea4ff20	\Windows\System32\wbem\WMIADAP.exe
+0x3ea502d0	\Windows\System32\LogFiles\Scm\fa21bc6b-8582-47aa-9e4b-a392116d0cdc
+0x3ea50f20	\Windows\System32\LogFiles\Scm\fa2bc0a6-8d4b-458a-85c8-2b8c72487513
+0x3ea515f0	\Windows\System32\umb.dll
+0x3ea51a20	\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+0x3ea55d50	\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Media Player.lnk
+0x3ea565c0	\Windows\System32\drivers\etc\hosts
+0x3ea56710	\Windows\System32\Tasks\Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask
+0x3ea57f20	\Windows\System32\wdi.dll
+0x3ea662d0	\Windows\System32\rasadhlp.dll
+0x3ea66f20	\Windows\System32\perftrack.dll
+0x3ea67d10	\Windows\System32\LogFiles\Scm\fdd56c73-f0d5-41b6-b767-6effd7966428
+0x3ea6e270	\Windows\System32\Apphlpdm.dll
+0x3ea6f760	\Windows\System32\nci.dll
+0x3ea70070	\Windows\System32\pnpts.dll
+0x3ea70a60	\Windows\System32\wer.dll
+0x3ea728d0	\$Directory
+0x3ea72f20	\Windows\System32\wdiasqmmodule.dll
+0x3ea73330	\Windows\System32\wbem\repdrvfs.dll
+0x3ea75d00	\Windows\System32\PortableDeviceConnectApi.dll
+0x3ea7b830	\Device\HarddiskVolume2\Users\Alissa Simpson\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3ea7b980	\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\SoftwareProtectionPlatform\Cache\cache.dat
+0x3ea7bda0	\ProgramData\Microsoft\Windows Defender\Definition Updates\{D2B0B133-42ED-44D3-809A-46EBB62BA863}\mpengine.dll
+0x3ea7c230	\Users\SmartNet\NTUSER.DAT
+0x3ea7ea00	\ProgramData\Microsoft\Search\Data\Applications\Windows\GatherLogs\SystemIndex\SystemIndex.3.gthr
+0x3ea7ef20	\$Directory
+0x3ea7f350	\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+0x3ea7f4a0	\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+0x3ea7f800	\$Directory
+0x3ea813a0	\Windows\System32\winevt\Logs\Microsoft-Windows-NCSI%4Operational.evtx
+0x3ea826f0	\Program Files\Windows Media Player\en-US\wmpnetwk.exe.mui
+0x3ea87f20	\Windows\System32\ncobjapi.dll
+0x3ea8a070	\Windows\inf\netnb.PNF
+0x3ea8c200	\Windows\System32\winevt\Logs\Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx
+0x3ea90070	\Windows\System32\taskhost.exe
+0x3ea935c0	\Windows\inf\rspndr.PNF
+0x3ea94640	\Windows\System32\winspool.drv
+0x3ea97960	\Windows\System32\en-US\KernelBase.dll.mui
+0x3ea9eb20	\Windows\System32\dimsjob.dll
+0x3ea9ec70	\Windows\System32\pautoenr.dll
+0x3eaa1290	\ProgramData\Microsoft\Windows Defender\Definition Updates\{D2B0B133-42ED-44D3-809A-46EBB62BA863}\mpasdlta.vdm
+0x3eaa14a0	\ProgramData\Microsoft\Windows Defender\Definition Updates\{D2B0B133-42ED-44D3-809A-46EBB62BA863}\mpasbase.vdm
+0x3eaa2d60	\ProgramData\Microsoft\Search\Data\Applications\Windows\MSS.log
+0x3eaa6280	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\SecStore\CiST0000.000
+0x3eaa6460	\Windows\System32\config\TxR\{016888cc-6c6f-11de-8d1d-001e0bcde3ec}.TxR.2.regtrans-ms
+0x3eaa6700	\Windows\Media\Windows Navigation Start.wav
+0x3eaa6a20	\Windows\System32\en-US\SampleRes.dll.mui
+0x3eaab270	\Windows\System32\certcli.dll
+0x3eaacf20	\Windows\System32\CertEnroll.dll
+0x3eaad590	\Endpoint
+0x3eaae6f0	\Windows\System32\wfp\wfpdiag.etl
+0x3eab42d0	\Windows\System32\wbem\Repository\MAPPING3.MAP
+0x3eab4420	\Windows\System32\wbem\Repository\OBJECTS.DATA
+0x3eab4dd0	\Windows\System32\wbem\Repository\MAPPING2.MAP
+0x3eab4f20	\Windows\System32\en-US\FirewallAPI.dll.mui
+0x3eab5800	\browser
+0x3eab5950	\browser
+0x3eab5b80	\$Directory
+0x3eab6c40	\Windows\System32
+0x3eac2b30	\Users\SmartNet\Documents\desktop.ini
+0x3eac38f0	\Windows\WindowsUpdate.log
+0x3eac4d00	\Windows\System32\wmploc.DLL
+0x3eac51a0	\Windows\System32\wbem\wbemess.dll
+0x3eac5910	\Windows\System32\wbem\WmiPrvSD.dll
+0x3eae45d0	\Windows\System32\udhisapi.dll
+0x3eae4cd0	\$Directory
+0x3eae4e20	\Windows\System32\wups2.dll
+0x3eaea4b0	\$Directory
+0x3eaeb570	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\desktop.ini
+0x3eaebaf0	\Users\SmartNet\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Media Player.lnk
+0x3eaec760	\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-Scheduled%4Operational.evtx
+0x3eaecad0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\desktop.ini
+0x3eaed270	\$Directory
+0x3eaed990	\$Directory
+0x3eaeea70	\Windows\System32\C_1256.NLS
+0x3eaef350	\Users\SmartNet\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x3eaef740	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+0x3eaf0740	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x3eaf0b30	\Windows\System32\SensApi.dll
+0x3eaf0f20	\Windows\System32\aelupsvc.dll
+0x3eaf1410	\Windows\System32\fdSSDP.dll
+0x3eaf1740	\Windows\System32\FXSSVC.exe
+0x3eaf2740	\$Directory
+0x3eaf5570	\$Directory
+0x3eaf5740	\$Directory
+0x3eaf6070	\Windows\System32\mspatcha.dll
+0x3eaf7a20	\$Directory
+0x3eaf85b0	\Windows\System32\wuapp.exe
+0x3eaf87c0	\Program Files\desktop.ini
+0x3eb0a3a0	\Users\SmartNet\Links\desktop.ini
+0x3eb0b4d0	\Windows\System32\perfc009.dat
+0x3eb0b770	\Program Files\Windows Media Player\Network Sharing\wmpnss_color48.png
+0x3eb0ba00	\$Directory
+0x3eb0f050	\Windows\System32\drivers\spsys.sys
+0x3eb12730	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\SETTINGS.DIA
+0x3eb12f20	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\SecStore\CiST0000.001
+0x3eb21070	\$Directory
+0x3eb21990	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\INDEX.000
+0x3eb21f20	\$Directory
+0x3eb223f0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010002.wid
+0x3eb22540	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010001.dir
+0x3eb22820	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010001.ci
+0x3eb22970	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010001.wid
+0x3eb22dd0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\CiAD0001.000
+0x3eb22f20	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\INDEX.002
+0x3eb23070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010002.ci
+0x3eb23430	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010007.wid
+0x3eb23580	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010003.dir
+0x3eb238e0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010003.ci
+0x3eb23bc0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010003.wid
+0x3eb23d10	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010002.dir
+0x3eb452a0	\$Directory
+0x3eb4b070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010007.wsb
+0x3eb4b490	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\CiAD0001.002
+0x3eb4bb00	\MsFteWds
+0x3eb4bc50	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010007.dir
+0x3eb4bda0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010007.ci
+0x3eb4c900	\Windows\System32\en-US\odbcint.dll.mui
+0x3eb4d7e0	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{57420434-16A7-4289-8730-761916EE1B04}
+0x3eb50350	\Windows\System32\wuaueng.dll
+0x3eb50b70	\Windows\System32\fdWSD.dll
+0x3eb51070	\$Directory
+0x3eb51290	\Windows\System32\desktop.ini
+0x3eb516f0	\$Directory
+0x3eb51d10	\Windows\System32\winevt\Logs\Microsoft-Windows-Winlogon%4Operational.evtx
+0x3eb523e0	\Users\Public\Music
+0x3eb53440	\$Directory
+0x3eb53f20	\Windows\assembly\Desktop.ini
+0x3eb54070	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{1A13C905-E19B-4091-898E-2633E9496759}
+0x3eb547c0	\Windows\SoftwareDistribution\DataStore\DataStore.edb
+0x3eb55320	\Users\SmartNet\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+0x3eb55d10	\Windows\SoftwareDistribution\DataStore\Logs\edb.chk
+0x3eb56780	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{209463B0-77C3-4BB9-B08D-6EFA832596E7}
+0x3eb57070	\$Directory
+0x3eb57b00	\Windows\System32\en-US\KernelBase.dll.mui
+0x3eb586b0	\$Directory
+0x3eb58f20	\Endpoint
+0x3eb5a100	\Users\Public\Music
+0x3eb5aaf0	\$Directory
+0x3eb5ac40	\Windows\SoftwareDistribution\DataStore\Logs\edb.log
+0x3eb5b200	\Windows\System32
+0x3eb5b350	\$Directory
+0x3eb5b560	\$Directory
+0x3eb5c820	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\Music.library-ms
+0x3eb5ca10	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTMsMpPsSession7.etl
+0x3eb5df20	\Endpoint
+0x3eb5e350	\Windows\System32\en-US\bthprops.cpl.mui
+0x3eb5e520	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x3eb5e740	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3eb5eb30	\Windows\System32\winevt\Logs\Microsoft-Windows-NetworkAccessProtection%4WHC.evtx
+0x3eb5ed50	\Windows\bfsvc.exe
+0x3eb621a0	\Endpoint
+0x3eb6d8a0	\Windows\System32\en-US\KernelBase.dll.mui
+0x3eb6da70	\Windows\Fonts\StaticCache.dat
+0x3eb76070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.ci
+0x3eb77a70	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3eb78a70	\Windows\System32\wdi\LogFiles\WdiContextLog.etl.001
+0x3eb78e60	\lsass
+0x3eb7a4b0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3eb842b0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3eb844d0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x3eb848c0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3eb84bf0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x3eb84f20	\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Purble Place.lnk
+0x3eb85290	\$Directory
+0x3eb854b0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x3eb85680	\Windows\System32\en-US\bthprops.cpl.mui
+0x3eb858a0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x3eb85c90	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3eb85e60	\Windows\System32\en-US\KernelBase.dll.mui
+0x3eb864b0	\Windows\ehome\ehepgres.dll
+0x3eb868a0	\$Directory
+0x3eb87290	\Windows\System32\en-US\cmd.exe.mui
+0x3eb87c90	\Users\SmartNet\Favorites\Links\desktop.ini
+0x3eb88070	\$Directory
+0x3eb88800	\Windows\System32\SampleRes.dll
+0x3eb88a20	\$Directory
+0x3eb88e60	\Windows\ehome\en-US\ehepgres.dll.mui
+0x3eb89070	\Users\SmartNet\Favorites\Links for United States\desktop.ini
+0x3eb8dea0	\Users\SmartNet\Links
+0x3eb948b0	\Users\Public\Downloads\desktop.ini
+0x3eb94a00	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Control Panel.lnk
+0x3eb96440	\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk
+0x3eb97620	\Users\SmartNet\AppData\Local\IconCache.db
+0x3eb97770	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3eb98070	\Windows\System32\EhStorShell.dll
+0x3eb9a200	\Windows\SysWOW64\en-US\iedkcs32.dll.mui
+0x3eb9a520	\Windows\SysWOW64\iedkcs32.dll
+0x3eb9ad50	\$Directory
+0x3eb9cf20	\Windows\System32\cscui.dll
+0x3eb9f220	\ProgramData\Microsoft\Windows Defender\Scans\History\Service\Unknown.Log
+0x3eba04c0	\Windows\System32\NlsData0009.dll
+0x3eba1a90	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a\GdiPlus.dll
+0x3eba1e50	\Users\SmartNet\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+0x3eba2070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3eba2b40	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3eba33f0	\Windows\System32\IconCodecService.dll
+0x3eba3600	\Users\SmartNet\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x3eba42f0	\Windows\SysWOW64\ie4uinit.exe
+0x3eba4bd0	\Windows\ehome\ehSSO.dll
+0x3eba53d0	\Windows\System32\ie4uinit.exe
+0x3eba5af0	\Windows\System32\en-US\iedkcs32.dll.mui
+0x3eba5e60	\Windows\System32\iedkcs32.dll
+0x3eba6740	\Users\Public\Desktop\desktop.ini
+0x3eba6960	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3eba6e60	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3eba7070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ebaa600	\Windows\System32\timedate.cpl
+0x3ebac810	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x3ebacf20	\Users\SmartNet\AppData\Local\Microsoft\Windows\Caches\cversions.1.db
+0x3ebad420	\Users\SmartNet\AppData\Local\Microsoft\Windows\Burn
+0x3ebad570	\Users\SmartNet\AppData\Local\Microsoft\Windows\Burn
+0x3ebad6c0	\Users\Public\Desktop
+0x3ebadc00	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\desktop.ini
+0x3ebadf20	\Users\Public\Desktop
+0x3ebae070	\Users\SmartNet\Desktop
+0x3ebae3b0	\Users\SmartNet\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini
+0x3ebae660	\Windows\System32\shdocvw.dll
+0x3ebaf440	\Users\SmartNet\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Explorer.lnk
+0x3ebaf7a0	\Windows\System32\C_1250.NLS
+0x3ebafc00	\$Directory
+0x3ebb1f20	\$Directory
+0x3ebb25f0	\ProgramData\Microsoft\Windows\Start Menu\Programs\desktop.ini
+0x3ebb2960	\ProgramData\Microsoft\Windows\Start Menu\desktop.ini
+0x3ebb39b0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg
+0x3ebb5070	\Users\SmartNet
+0x3ebb5370	\$Directory
+0x3ebb54c0	\Windows\System32\gameux.dll
+0x3ebb5f20	\$Directory
+0x3ebb61d0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ebb6690	\$Directory
+0x3ebb7340	\ProgramData\Microsoft\Windows\Start Menu
+0x3ebb7760	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+0x3ebb7c90	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Desktop.ini
+0x3ebb7de0	\$Directory
+0x3ebb83b0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini
+0x3ebb9070	\Windows\Resources\Themes\Aero\Shell\NormalColor\shellstyle.dll
+0x3ebb9830	\Windows\System32\FXSRESM.dll
+0x3ebb9c50	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Desktop.ini
+0x3ebb9e20	\Windows\winsxs\FileMaps\$$_system32_21f9a9c4a2f8b514.cdf-ms
+0x3ebba760	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ebba8b0	\$Directory
+0x3ebbab00	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini
+0x3ebbbb40	\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\desktop.ini
+0x3ebbc070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ebbc290	\Windows\System32\hcproviders.dll
+0x3ebbc3e0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Desktop.ini
+0x3ebbc9c0	\$Directory
+0x3ebbcc70	\Windows\System32\msls31.dll
+0x3ebbd830	\$Directory
+0x3ebbe070	\ProgramData\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini
+0x3ebbe350	\Windows\Fonts\segoeuii.ttf
+0x3ebbeb10	\$Directory
+0x3ebbf070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ebbf1e0	\Users\SmartNet\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\desktop.ini
+0x3ebbf740	\ProgramData\Microsoft\Windows\Start Menu\Programs\Subsystem for UNIX-based Applications\Desktop.ini
+0x3ebbfb70	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ebbfcc0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+0x3ebc0070	\$Directory
+0x3ebc02c0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Desktop.ini
+0x3ebc0b50	\Program Files\Common Files\Microsoft Shared\ink\tiptsf.dll
+0x3ebc1630	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Desktop.ini
+0x3ebc1c60	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ebc2330	\Windows\System32\cscobj.dll
+0x3ebc2480	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\Desktop.ini
+0x3ebc2c50	\$Directory
+0x3ebc2f20	\ProgramData\Microsoft\Windows\WER\ReportArchive
+0x3ebc31c0	\$Directory
+0x3ebc3720	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows PowerShell\desktop.ini
+0x3ebc3f20	\$Directory
+0x3ebc4670	\Users\SmartNet\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x3ebc5290	\Users\SmartNet\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x3ebc53e0	\ProgramData\Microsoft\Windows\Start Menu
+0x3ebc6960	\Windows\System32\PortableDeviceTypes.dll
+0x3ebc6e80	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x3ebc7070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ebc7350	\Windows\System32
+0x3ebc7b90	\Users\SmartNet\AppData\Local\Microsoft\Windows\WER\ReportArchive
+0x3ebc92c0	\Windows\System32\FXSST.dll
+0x3ebc9410	\Users\SmartNet\Searches\desktop.ini
+0x3ebc9780	\Users\SmartNet\Desktop\Firefox.lnk
+0x3ebc9af0	\Users\SmartNet\AppData\Local\Microsoft\Windows\WER\ERC
+0x3ebc9d00	\Windows\System32\thumbcache.dll
+0x3ebcad10	\$Directory
+0x3ebcb4d0	\Users\SmartNet\Contacts\desktop.ini
+0x3ebcc070	\Users\SmartNet\Favorites\desktop.ini
+0x3ebcece0	\$Directory
+0x3ebd0070	\Windows\explorer.exe
+0x3ebd0270	\Windows\System32\DeviceCenter.dll
+0x3ebd0b30	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3ebd0e90	\$Directory
+0x3ebd1070	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x3ebd1430	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3ebd1710	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3ebd1860	\Windows\System32\en-US\DeviceCenter.dll.mui
+0x3ebd1b40	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x3ebd39f0	\$Directory
+0x3ebd3f20	\Windows\Media\Windows Logon Sound.wav
+0x3ebd4d10	\Users\Alissa Simpson\Desktop\desktop.ini
+0x3ebd6b10	\Windows\System32\en-US\wdmaud.drv.mui
+0x3ebd7280	\Windows\System32\en-US\MMDevAPI.dll.mui
+0x3ebd9a50	\Windows\System32\webcheck.dll
+0x3ebdb070	\Windows
+0x3ebe26f0	\Windows\System32\stobject.dll
+0x3ebe34a0	\Windows\System32\QUTIL.DLL
+0x3ebe4d00	\Windows\System32\DXP.dll
+0x3ebe52d0	\Windows\System32\mmres.dll
+0x3ebe7ea0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\Documents.library-ms
+0x3ebea990	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\desktop.ini
+0x3ebec420	\Windows\System32\ieframe.dll
+0x3ebf10f0	\Windows\System32\prnfldr.dll
+0x3ebf1e20	\Windows\System32\srchadmin.dll
+0x3ebf22b0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries
+0x3ebf25c0	\Windows\System32\FXSAPI.dll
+0x3ebf2770	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x3ebf2ad0	\$Directory
+0x3ebf2cc0	\Users\Public\Documents\desktop.ini
+0x3ebf2ed0	\Windows\System32\wpdshext.dll
+0x3ebf3070	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries
+0x3ebf3840	\Windows\System32\WPDShServiceObj.dll
+0x3ebf3f20	\Windows\System32\VBoxTray.exe
+0x3ebf56e0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Media Center.lnk
+0x3ebf5a70	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\NetworkProjection.lnk
+0x3ebf5bc0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\displayswitch.lnk
+0x3ebf5f20	\Windows\System32\wiaservc.dll
+0x3ebf96e0	\Windows\System32\wlanapi.dll
+0x3ebf9dc0	\Windows\System32\Microsoft\Protect\S-1-5-18\50572be2-c866-4994-b127-489906393fe8
+0x3ebfa4c0	\Endpoint
+0x3ebfc250	\Endpoint
+0x3ebfd670	\Windows\System32\P2P.dll
+0x3ebfd850	\Windows\System32\wdi\{86432a0b-3c7d-4ddf-a89c-172faa90485d}\{78c4606c-2911-42a7-a9d8-7adb76174698}\snapshot.etl
+0x3ebfe4b0	\Endpoint
+0x3ebffd20	\Endpoint
+0x3ec010f0	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{42125072-57AF-4F99-82DB-4EC97B1817EB}
+0x3ec02d70	\Windows\System32\VBoxMRXNP.dll
+0x3ec032c0	\Windows\System32\imageres.dll
+0x3ec034b0	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-Power%4Thermal-Operational.evtx
+0x3ec036f0	\$MapAttributeValue
+0x3ec03900	\Windows\System32\gpsvc.dll
+0x3ec04360	\$Directory
+0x3ec04a20	\Windows\System32\cscsvc.dll
+0x3ec06e60	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+0x3ec07130	\Windows\System32\MPSSVC.dll
+0x3ec08610	\Windows\System32\nlaapi.dll
+0x3ec09a40	\Windows\System32\en-US\mmres.dll.mui
+0x3ec0ada0	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Firewall With Advanced Security%4ConnectionSecurity.evtx
+0x3ec0c0f0	\Windows\System32\drivers\fltMgr.sys
+0x3ec0c240	\Windows\System32\atl.dll
+0x3ec0c660	\Windows\System32\PeerDist.dll
+0x3ec0d530	\Windows\System32\PSHED.DLL
+0x3ec0d7d0	
+0x3ec0e5b0	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-WHEA%4Operational.evtx
+0x3ec0e920	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-WHEA%4Errors.evtx
+0x3ec103b0	\Windows\CSC\v2.0.6
+0x3ec109b0	\Windows\System32\duser.dll
+0x3ec10b00	sm
+0x3ec12f20	\Windows\CSC
+0x3ec13240	\Windows\System32\microsoft-windows-kernel-processor-power-events.dll
+0x3ec13a50	\$Directory
+0x3ec13ba0	\Windows\CSC\v2.0.6\temp
+0x3ec14540	\Windows\System32\themeservice.dll
+0x3ec14dd0	\Windows\CSC\v2.0.6\pq
+0x3ec15420	\Windows\System32\taskschd.dll
+0x3ec15730	\Windows\CSC\v2.0.6\namespace
+0x3ec179f0	\.\.
+0x3ec17f20	\Windows\System32\winmm.dll
+0x3ec18070	
+0x3ec188f0	\Windows\System32\ksuser.dll
+0x3ec19930	\Windows\System32\dsrole.dll
+0x3ec19e20	\Windows\winsxs\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3\comctl32.dll.mui
+0x3ec1a1a0	\Windows\System32\wdmaud.drv
+0x3ec1a620	\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x3ec1ef20	\Endpoint
+0x3ec1f2a0	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{8DC32710-C660-495A-82F3-01663123D50D}
+0x3ec1fb30	\Endpoint
+0x3ec21110	\Windows\System32\drivers\intelppm.sys
+0x3ec21500	\ProgramData\Microsoft\Windows\DRM\drmstore.hds
+0x3ec21af0	\$Directory
+0x3ec22710	\Windows\System32\en-US\KernelBase.dll.mui
+0x3ec22860	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ec22f20	\Windows\System32\drivers\hdaudbus.sys
+0x3ec23180	\$Directory
+0x3ec237c0	\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x3ec24450	\Users\Alissa Simpson\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+0x3ec279a0	\Windows\System32\es.dll
+0x3ec27c00	\Windows\System32\winevt\Logs\Microsoft-Windows-GroupPolicy%4Operational.evtx
+0x3ec29a20	\ProgramData\Microsoft\RAC\StateData\RacWmiEventData.dat
+0x3ec29b70	\$Directory
+0x3ec2e740	\Windows\System32\SndVolSSO.dll
+0x3ec2e8f0	\Windows\System32\mstask.dll
+0x3ec31050	\Windows\System32\drivers\lltdio.sys
+0x3ec31d10	\Windows\System32\hid.dll
+0x3ec33dd0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ec35f20	\$Recycle.Bin\S-1-5-21-3073570648-3149397540-2269648332-1003\desktop.ini
+0x3ec36700	\Windows\System32\en-US\wdmaud.drv.mui
+0x3ec37ea0	\Windows\System32\winevt\Logs\Microsoft-Windows-OfflineFiles%4Operational.evtx
+0x3ec38590	\Windows\inf\hdaudio.PNF
+0x3ec38c20	\Windows\System32\bthprops.cpl
+0x3ec38d70	\Windows\System32\dwmapi.dll
+0x3ec39070	\Windows\System32\comres.dll
+0x3ec396c0	\Windows\System32\Sens.dll
+0x3ec39f20	\Windows\System32\drivers\rspndr.sys
+0x3ec3aae0	\Windows\System32\winevt\Logs\Microsoft-Windows-BranchCacheSMB%4Operational.evtx
+0x3ec3b640	\Windows\System32\uxsms.dll
+0x3ec3c070	\$Directory
+0x3ec3cf20	\$Directory
+0x3ec3df20	\Windows\System32\xmllite.dll
+0x3ec3f910	\Windows\System32\en-US\MMDevAPI.dll.mui
+0x3ec427d0	\Windows\System32\schedcli.dll
+0x3ec43220	\srvsvc
+0x3ec43e60	\Windows\System32\wbem\wmipcima.dll
+0x3ec446e0	\Windows\System32\wmi.dll
+0x3ec44920	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{8A5C3AA6-6D6B-416E-B941-D493F96484A5}
+0x3ec44d30	\Windows\System32\VBoxService.exe
+0x3ec48f20	\Windows\System32\cscdll.dll
+0x3ec497f0	\Windows\System32\dwmredir.dll
+0x3ec49b60	\Windows\System32\msutb.dll
+0x3ec4a2e0	\Windows\System32\nrpsrv.dll
+0x3ec4ab10	\Windows\System32\AudioSes.dll
+0x3ec4d910	\Windows\System32\npmproxy.dll
+0x3ec4e070	\Windows\System32\lmhsvc.dll
+0x3ec4e5c0	\Windows\System32\nsisvc.dll
+0x3ec527b0	\Windows\System32
+0x3ec53f20	\Windows\System32\dhcpcore.dll
+0x3ec55840	\Windows\System32\dhcpcore6.dll
+0x3ec56440	\Windows\System32\msacm32.drv
+0x3ec56d10	\Windows\System32\dnsrslvr.dll
+0x3ec58720	\Windows\System32\FWPUCLNT.DLL
+0x3ec5a260	\Windows\System32\msacm32.dll
+0x3ec5a3b0	\Windows\System32\ActionCenter.dll
+0x3ec5cd30	\Windows\System32\dnsext.dll
+0x3ec60760	\Windows\System32\midimap.dll
+0x3ec6a070	\Windows\System32\dhcpcsvc6.dll
+0x3ec6b970	\Windows\System32\drivers\etc
+0x3ec6d070	\Endpoint
+0x3ec71b30	\Windows\System32\shsvcs.dll
+0x3ec71d10	\Windows\System32\FntCache.dll
+0x3ec73f20	\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache-System.dat
+0x3ec74f20	\Windows\System32\fvecerts.dll
+0x3ec75290	\Windows\System32\winevt\Logs\Microsoft-Windows-Dhcp-Client%4Admin.evtx
+0x3ec7b070	\Windows\System32\AUDIOKSE.dll
+0x3ec7bc60	\Windows\System32\tbs.dll
+0x3ec7f900	\Windows\System32\schedsvc.dll
+0x3ec80070	\Windows\System32\msxml3r.dll
+0x3ec803a0	\Users\Alissa Simpson\ntuser.dat.LOG1
+0x3ec80940	\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x3ec80d60	\$Directory
+0x3ec81630	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ec82070	\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x3ec82420	\Windows\System32\advapi32.dll
+0x3ec82bd0	\Windows\System32\en-US\WinSATAPI.dll.mui
+0x3ec83830	\Windows\System32\MSMPEG2ENC.DLL
+0x3ec83980	\Windows\System32\devenum.dll
+0x3ec84600	\Endpoint
+0x3ec84e60	\Windows\System32\msdmo.dll
+0x3ec86570	\Endpoint
+0x3ec882e0	\Windows\System32\winevt\Logs\Microsoft-Windows-Dhcpv6-Client%4Admin.evtx
+0x3ec88650	\Windows\System32\AudioEng.dll
+0x3ec88a40	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{010161B9-2C68-4C8D-9C9B-46D4B250BD4F}
+0x3ec8aa10	\Windows\System32\WindowsCodecs.dll
+0x3ec8bbc0	\Windows\System32\ktmw32.dll
+0x3ec8bd10	\AUTORUN.INF
+0x3ec8e2c0	\Windows\System32\fveapi.dll
+0x3ec8e560	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ec8ed00	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx
+0x3ec8f6d0	\Windows\System32\sqmapi.dll
+0x3ec90390	\Windows\System32\WMALFXGFXDSP.dll
+0x3ec90b20	\Windows\System32\wiarpc.dll
+0x3ec91a90	\Windows\System32\mfplat.dll
+0x3ec93c30	\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x3ec93dd0	\Windows\System32\winbrand.dll
+0x3ec94070	\Windows\System32\taskcomp.dll
+0x3ec95070	\Winsock2\CatalogChangeListener-1ec-0
+0x3ec96070	\Windows\Tasks\SA.DAT
+0x3ec96ac0	\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+0x3ec97150	\Endpoint
+0x3ec974c0	\Windows\System32\Tasks\Microsoft\Windows\Ras\MobilityManager
+0x3ec977d0	\Windows\Branding\Basebrd\basebrd.dll
+0x3ec98580	\Windows\System32\VaultCredProvider.dll
+0x3ec987b0	\Windows\System32\drivers\fltMgr.sys
+0x3ec98dc0	\Windows\System32\drivers\fileinfo.sys
+0x3ec9b5d0	\Endpoint
+0x3ec9cdc0	\Endpoint
+0x3ec9d2b0	\Windows\Tasks\SCHEDLGU.TXT
+0x3ec9dda0	\Endpoint
+0x3ec9eb30	\Windows\System32\certCredProvider.dll
+0x3ec9edd0	\Windows\System32\BioCredProv.dll
+0x3ec9ef20	\Windows\System32\AltTab.dll
+0x3ec9f070	\Windows\System32\credui.dll
+0x3ec9f620	\Windows\System32\SmartcardCredentialProvider.dll
+0x3eca0070	\Windows\System32\LogFiles\Scm\4f6df392-74ef-4515-bb9b-85e1da24f42e
+0x3eca0f20	\Users\Alissa Simpson\Contacts\desktop.ini
+0x3eca23e0	\atsvc
+0x3eca2530	\atsvc
+0x3eca2680	\Windows\System32\drivers\http.sys
+0x3eca27d0	\atsvc
+0x3eca2920	\Windows\Tasks
+0x3eca3070	\Endpoint
+0x3eca3f20	\Windows\System32\ntoskrnl.exe
+0x3eca59f0	\Windows\System32\Tasks\Microsoft\Windows\CertificateServicesClient\SystemTask
+0x3eca5b90	\Winsock2\CatalogChangeListener-36c-0
+0x3eca6c80	\Endpoint
+0x3eca7070	\Windows\System32\Tasks\Microsoft\Windows\SystemRestore\SR
+0x3eca8070	\Endpoint
+0x3eca89f0	\Endpoint
+0x3eca98f0	\$Directory
+0x3eca9c40	\Windows\System32\Tasks\Microsoft\Windows\Media Center\RecordingRestart
+0x3ecaa9e0	\Windows\System32\drivers\pcw.sys
+0x3ecac570	\$Directory
+0x3ecac9e0	\Windows\System32\winbio.dll
+0x3ecae070	\Windows\System32\vaultcli.dll
+0x3ecae280	\Windows\System32\spoolsv.exe
+0x3ecae3d0	\Windows\System32\Tasks\Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck
+0x3ecaeb80	\Windows\System32\LogFiles\Scm\5f5a18eb-dc73-4e45-a11c-b59043598412
+0x3ecb1880	\Endpoint
+0x3ecb2070	\Endpoint
+0x3ecb2300	\Windows\System32\upnphost.dll
+0x3ecb32d0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x3ecb3420	\$Recycle.Bin\S-1-5-21-3073570648-3149397540-2269648332-1001\desktop.ini
+0x3ecb3f20	\Windows\System32\wbem\WmiPrvSE.exe
+0x3ecb62b0	\Users\SmartNet\AppData\Roaming\Microsoft\Credentials
+0x3ecb69c0	\Windows\System32\wbem\WmiPrvSE.exe
+0x3ecb7430	\Windows\System32\SyncCenter.dll
+0x3ecb7c00	\Windows\System32\virtdisk.dll
+0x3ecb7de0	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{25A3E8F7-4C97-4CEC-BE90-A7D979BFA32E}
+0x3ecb9070	\Windows\System32\LogFiles\Scm\994c86ad-a929-4b2c-88a0-4e25a107a029
+0x3ecb9dd0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ecb9f20	\Windows\System32\LogFiles\Scm\72db7465-bc54-491b-a92a-4637a28c9bbf
+0x3ecba7d0	\Windows\System32\LogFiles\Scm\d7b6e81d-3cf4-432c-84d2-24213f4316e6
+0x3ecc0560	\Windows\System32\actxprxy.dll
+0x3ecc0b20	\Windows\System32\LogFiles\Scm\32d6f60c-3e43-42e6-8a92-722b9c8180c5
+0x3ecc1cb0	\Windows\System32\Tasks\Microsoft\Windows\Media Center\PvrScheduleTask
+0x3ecc2f20	\Windows\System32\LogFiles\Scm\2f57269b-1e09-4e2d-ab1e-b0fdac7d279c
+0x3ecc3070	\$Directory
+0x3ecc3460	\Windows\System32\Tasks\Microsoft\Windows\Autochk\Proxy
+0x3ecc3cc0	\Windows\AppPatch\AppPatch64\sysmain.sdb
+0x3ecc43c0	\Windows\System32\Tasks\Microsoft\Windows\Multimedia\SystemSoundsService
+0x3ecc4510	\Windows\System32\LogFiles\Scm\eb02381f-d652-4b1c-894a-712498c62c51
+0x3ecc48b0	\Windows\System32\rasplap.dll
+0x3ecc4ac0	\Windows\System32\rasapi32.dll
+0x3ecc4cd0	\Windows\System32\Tasks\Microsoft\Windows\MUI\LPRemove
+0x3ecc5280	\Windows\System32\LogFiles\Scm\2470470f-2634-478e-b181-571e98a789bb
+0x3ecc53d0	\$Directory
+0x3ecc5f20	\Program Files\Windows NT\TableTextService\TableTextService.dll
+0x3ecc6070	\Windows\System32\rasman.dll
+0x3ecc6550	\Windows\System32\wdi\{67144949-5132-4859-8036-a737b43825d8}\{cb222552-306c-4d89-809d-800172ff01c6}\snapshot.etl
+0x3ecc6e60	\$Directory
+0x3ecc7070	\Windows\System32\LogFiles\Scm\28e0a6a1-e47c-48fc-8b59-4c485deedc00
+0x3ecc78e0	\Windows\System32\Tasks\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual)
+0x3ecc8070	\Windows\System32\LogFiles\Scm\28011108-68df-4c73-b91b-57427d501bba
+0x3ecc81c0	\Windows\System32\LogFiles\Scm\2ea343c4-dabe-4b36-832c-42f6afad0e99
+0x3ecc83d0	\Windows\System32\LogFiles\Scm\2b379006-d367-4c86-90e1-e354020d13e0
+0x3ecc8a60	\Windows\System32\Tasks\Microsoft\Windows\SideShow\SessionAgent
+0x3ecc9370	\Windows\System32\Tasks\Microsoft\Windows\SideShow\GadgetManager
+0x3ecc94c0	\Windows\System32\LogFiles\Scm\1f04f6cc-baee-4847-bada-cd50be82318d
+0x3ecc9a70	\Windows\System32
+0x3ecc9c80	\Windows\System32\Tasks\Microsoft\Windows\SideShow\SystemDataProviders
+0x3eccaac0	\Windows\System32\LogFiles\Scm\401a0749-97bb-4d6e-ace3-3e6518cd7381
+0x3eccac10	\Windows\System32\rtutils.dll
+0x3eccb070	\Windows\System32\Tasks\Microsoft\Windows\Shell\WindowsParentalControlsMigration
+0x3eccc070	\Windows\System32\LogFiles\Scm\486d715e-6aa2-44cf-bc48-b6990cbb53c6
+0x3ecce800	\Windows\System32\Tasks\Microsoft\Windows\TextServicesFramework\MsCtfMonitor
+0x3eccec10	\Windows\System32\LogFiles\Scm\1f7b7221-ae8f-44f3-ba82-f7d260f51964
+0x3ecced60	\Windows\System32\LogFiles\Scm\4c8b01a2-11ff-4c41-848f-508ef4f00cf7
+0x3eccf920	\Windows\System32\LogFiles\Scm\5b42dd9c-5a26-4f27-bb95-34603f0997e5
+0x3ecd0b60	\Windows\System32\Tasks\Microsoft\Windows\SideShow\AutoWake
+0x3ecd1600	\Windows\System32\Tasks\Microsoft\Windows\Shell\WindowsParentalControls
+0x3ecd2070	\Windows\System32\Tasks\Microsoft\Windows\Media Center\OCURDiscovery
+0x3ecd29f0	\$Directory
+0x3ecd2c00	\Windows\System32\LogFiles\Scm\6084aab4-5728-4125-aef6-8bfb3465de05
+0x3ecd3530	\$Directory
+0x3ecd4620	\Windows\System32\Tasks\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated)
+0x3ecd7410	\Windows\System32\Tasks\Microsoft\Windows\Offline Files\Logon Synchronization
+0x3ecd7570	\Windows\System32\Tasks\Microsoft\Windows\Windows Error Reporting\QueueReporting
+0x3ecd7d40	\Windows\System32\LogFiles\Scm\613612ba-897d-44ce-8dc1-8fc283f9fd51
+0x3ecda870	\Windows\Fonts\StaticCache.dat
+0x3ecdb570	\Windows\System32\sstpsvc.dll
+0x3ecdc070	\Windows\System32
+0x3ecdd350	\Windows\System32\userinit.exe
+0x3ecdd6c0	\Windows\System32\HotStartUserAgent.dll
+0x3ecde760	\ProgramData\Microsoft\Search\Data\Applications\Windows\MSS.log
+0x3ece0070	\Windows\System32\EhStorAPI.dll
+0x3ece0aa0	\Windows\System32\wbem\wmiprov.dll
+0x3ece23d0	\Windows\System32
+0x3ece3f20	\Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+0x3ece46c0	\Windows\System32\en-US\KernelBase.dll.mui
+0x3ece5740	\Endpoint
+0x3ece6240	\Windows\System32\Tasks\Microsoft\Windows\CertificateServicesClient\UserTask
+0x3ece8070	\Windows\System32\LogFiles\Scm\7afcc0ca-7121-422a-ab45-b0e8d599ff08
+0x3ece81d0	\Windows\System32\LogFiles\Scm\77d665ab-5b57-4b1b-b486-88b6a0a34d3b
+0x3ece8b30	\Windows\System32\BFE.DLL
+0x3ecea420	\Windows\System32\Tasks\Microsoft\Windows\WindowsColorSystem\Calibration Loader
+0x3eceab60	\Windows\System32\LogFiles\Scm\a35bb7a6-5f0c-4c9f-8450-2b3bed532d51
+0x3eceb370	\$Directory
+0x3eceb840	\Windows\System32\Tasks\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver
+0x3ecec430	\Windows\System32\LogFiles\Scm\af3cd684-19df-472c-9aa2-5ac7ae04c45e
+0x3ececa50	\Windows\System32\Tasks\Microsoft\Windows\UPnP\UPnPHostConfig
+0x3ececd00	\SystemRoot\System32\Config\TxR\{016888cc-6c6f-11de-8d1d-001e0bcde3ec}.TxR
+0x3eced3b0	\Windows\System32\LogFiles\Scm\d0250f3f-6480-484f-b719-42f659ac64d5
+0x3ecee710	\Windows\System32\Tasks\Microsoft\Windows\WindowsBackup\ConfigNotification
+0x3ecef070	\Windows\System32\LogFiles\Scm\ed64189b-77cc-45a0-a1a1-b6dd1305c032
+0x3ecefea0	\Windows\System32\Tasks\Microsoft\Windows\MobilePC\HotStart
+0x3ecf1a70	\Windows\System32\winevt\Logs\Microsoft-Windows-NetworkAccessProtection%4Operational.evtx
+0x3ecf1bc0	\Windows\System32\LogFiles\Scm\eaca24ff-236c-401d-a1e7-b3d5267b8a50
+0x3ecf2530	\Windows\System32\fundisc.dll
+0x3ecf2680	\Windows\System32\UXInit.dll
+0x3ecf2890	\Windows\System32\input.dll
+0x3ecf34b0	\Windows\System32\Tasks\Microsoft\Windows\Task Manager\Interactive
+0x3ecf4840	\Windows\System32\Tasks\Microsoft\Windows\Media Center\DispatchRecoveryTasks
+0x3ecf55c0	\$Directory
+0x3ecf6070	\$Directory
+0x3ecf6f20	\Windows\System32\LogFiles\Scm\00eace69-901f-4301-87b8-c1c6b3258da9
+0x3ecf74c0	\$Directory
+0x3ecf7870	\Windows\System32\GroupPolicy\gpt.ini
+0x3ecf79c0	\Windows\System32\Tasks\Microsoft\Windows\Time Synchronization\SynchronizeTime
+0x3ecf9670	\$Directory
+0x3ecfac50	\Program Files\Common Files\Microsoft Shared\ink\tiptsf.dll
+0x3ecfae60	\Windows\System32\LogFiles\Scm\044a6734-e90e-4f8f-b357-b2dc8ab3b5ec
+0x3ecfb740	\Windows\System32\Tasks\Microsoft\Windows\Tcpip\IpAddressConflict1
+0x3ecfba50	\Windows\System32\drivers\bowser.sys
+0x3ecfc9d0	\Windows\Resources\Themes\Aero\aero.msstyles
+0x3ed00320	\Windows\System32\Tasks\Microsoft\Windows\Media Center\OCURActivate
+0x3ed005d0	\Windows\System32\LogFiles\Scm\09f06bfe-a3c8-40e3-846a-6e6f4000c238
+0x3ed007e0	\wkssvc
+0x3ed01110	\Windows\System32\LogFiles\Scm\088482fa-65b8-4e17-9abf-1dcd48e8d373
+0x3ed01480	\Windows\System32\Tasks\Microsoft\Windows\Tcpip\IpAddressConflict2
+0x3ed03600	\Windows\System32\Tasks\Microsoft\Windows\Media Center\PeriodicScanRetry
+0x3ed04380	\Windows\System32\Tasks\Microsoft\Windows\Media Center\PBDADiscoveryW1
+0x3ed04950	\Windows\System32\LogFiles\Scm\17fbab63-06d7-47a9-b0a5-83be1d093fb0
+0x3ed059e0	\Windows\System32\Tasks\Microsoft\Windows\Media Center\ActivateWindowsSearch
+0x3ed05f20	\Windows\IME\SPTIP.DLL
+0x3ed06dd0	\Windows\System32\LogFiles\Scm\35cd0739-d3e5-4849-8589-706a05ded5ea
+0x3ed06f20	\Windows\System32\en-US\KernelBase.dll.mui
+0x3ed07360	\Windows\System32\LogFiles\Scm\47536d45-eeec-4bdc-8183-a4dc1f8da9e4
+0x3ed074c0	\Windows\System32\provsvc.dll
+0x3ed07b10	\Windows\System32\drivers\mpsdrv.sys
+0x3ed08070	\Windows\System32\LogFiles\Scm\3e1b5fbc-79fc-4723-8797-43f2450f6d47
+0x3ed08810	\$Directory
+0x3ed08a60	\Windows\System32\Tasks\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+0x3ed096b0	\Windows\System32\Tasks\Microsoft\Windows\Media Center\PBDADiscovery
+0x3ed09b10	\Windows\System32\LogFiles\Scm\5b51a1a2-6fd8-42b1-9b24-6272a1e3f2d4
+0x3ed0aa20	\Windows\System32\LogFiles\Scm\54a45058-c1c4-4e68-99a0-6c75c196b911
+0x3ed0b070	\Windows\System32\wuapi.dll
+0x3ed0b5a0	\$Directory
+0x3ed0ccd0	\Windows\System32\wuaueng.dll
+0x3ed0ce20	\Windows\System32\wuauclt.exe
+0x3ed0d3b0	\Windows\System32\Microsoft\Protect\S-1-5-19\7be653dc-37dc-4875-8a7a-6f8ef53b7761
+0x3ed0d500	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac\comctl32.dll
+0x3ed10070	\$Directory
+0x3ed105d0	\$Directory
+0x3ed10810	\Windows\System32\wercplsupport.dll
+0x3ed10a20	\Windows\System32\en-US\conhost.exe.mui
+0x3ed12590	\ProgramData\Microsoft\IlsCache\imcrcache.xml
+0x3ed12f20	\Users\Alissa Simpson\Documents\desktop.ini
+0x3ed133d0	\Windows\System32\drivers\mrxsmb.sys
+0x3ed13680	\Windows\System32\Tasks\Microsoft\Windows\Media Center\RegisterSearch
+0x3ed13e50	\Windows\System32\LogFiles\Scm\5a40e926-9e86-4b89-9cfd-b12311724371
+0x3ed15370	\Windows\System32\Tasks\Microsoft\Windows\Defrag\ScheduledDefrag
+0x3ed182e0	\Windows\System32\LogFiles\Scm\5c0aeeea-c154-45be-8499-bea5f11baff6
+0x3ed185f0	\Windows\System32\drivers\secdrv.sys
+0x3ed18740	\Windows\System32\Tasks\Microsoft\Windows\Media Center\SqlLiteRecoveryTask
+0x3ed1b720	\Windows\System32\LogFiles\Scm\64ea2615-7ba9-4560-b79f-278f6ec6ddd5
+0x3ed1bec0	\Windows\System32\sfc_os.dll
+0x3ed1ccc0	\Windows\System32\drivers\mrxsmb10.sys
+0x3ed1dd50	\Windows\System32\Tasks\Microsoft\Windows Defender\MP Scheduled Scan
+0x3ed1f9b0	\Windows\System32\Tasks\Microsoft\Windows\Windows Media Sharing\UpdateLibrary
+0x3ed1fe20	\Windows\System32\Tasks\Microsoft\Windows\User Profile Service\HiveUploadTask
+0x3ed20450	\Windows\System32\LogFiles\Scm\753c47ae-ec5e-44b3-95a9-2c8e553f0e39
+0x3ed20660	\Windows\System32\PeerDistSh.dll
+0x3ed207b0	\Windows\System32\Tasks\Microsoft\Windows\Media Center\ehDRMInit
+0x3ed20bb0	\Windows\System32\drivers\mrxsmb20.sys
+0x3ed20f20	\Windows\System32\LogFiles\Scm\6738ba6e-ea75-4b6b-b8b8-71f0336dd8ef
+0x3ed22630	\Windows\System32\Tasks\Microsoft\Windows\Media Center\mcupdate
+0x3ed22a20	\Windows\System32\LogFiles\Scm\785518ac-f693-4def-9f7d-1931b7c87de8
+0x3ed23bc0	\Windows\System32\LogFiles\Scm\7d8648b9-ebba-45db-b7bd-aa824cb7cfc9
+0x3ed23d10	\Windows\System32\en-US\FirewallAPI.dll.mui
+0x3ed23f20	\Windows\System32\ncsi.dll
+0x3ed24b90	\Windows\Performance\WinSAT\DataStore\2019-12-04 20.09.12.036 Formal.Assessment (Recent).WinSAT.xml
+0x3ed27070	\Windows\System32\FDResPub.dll
+0x3ed27200	\$Directory
+0x3ed275d0	\Windows\System32\nlasvc.dll
+0x3ed27f20	\Windows\System32\dps.dll
+0x3ed283e0	\Windows\System32\Tasks\Microsoft\Windows\Media Center\PvrRecoveryTask
+0x3ed29bc0	\Windows\System32\LogFiles\Scm\7a1554a2-b6a3-4c91-8cc6-49315422d0ed
+0x3ed30050	\Windows\System32\hal.dll
+0x3ed30400	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{6E0C836D-06B7-452F-AB51-4C179C997A12}
+0x3ed31070	\Windows\System32\Tasks\Microsoft\Windows\NetTrace\GatherNetworkInfo
+0x3ed31a30	\Windows\System32\cmd.exe
+0x3ed32d30	\$Directory
+0x3ed33600	\Windows\System32\en-US\conhost.exe.mui
+0x3ed34490	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Command Prompt.lnk
+0x3ed35660	\Windows\System32\imageres.dll
+0x3ed35c00	\Windows\System32\wkssvc.dll
+0x3ed3b4b0	\Windows\System32\wbem\wmiutils.dll
+0x3ed3dd00	\Endpoint
+0x3ed3e1b0	\Windows\System32\drivers\msisadrv.sys
+0x3ed3ea60	\Users\SmartNet\Downloads\desktop.ini
+0x3ed3f6c0	\Users\Public\Recorded TV\desktop.ini
+0x3ed3fbc0	\Windows\System32
+0x3ed45a70	\Windows\System32\spoolss.dll
+0x3ed46710	\Windows\System32\wfapigp.dll
+0x3ed46b30	\wkssvc
+0x3ed49070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ed4b070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ed4b6f0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ed4d990	\Program Files\Windows Media Player\Network Sharing\MediaReceiverRegistrar.xml
+0x3ed50190	\Windows\System32\drivers\monitor.sys
+0x3ed50670	\Windows\System32\drivers\portcls.sys
+0x3ed51b90	\Windows\System32\drivers\en-US\ndis.sys.mui
+0x3ed52820	\Windows\System32\wbem\Repository\MAPPING1.MAP
+0x3ed52c80	\Windows\System32\wdi\LogFiles\ShutdownCKCL.etl
+0x3ed55070	\Windows\inf\WmiApRpl\WmiApRpl.h
+0x3ed561e0	\Windows\System32\drivers\PEAuth.sys
+0x3ed57c90	\Windows\System32\LogFiles\Scm\c016366b-7126-46ca-b36b-592a3d95a60b
+0x3ed57f20	\Windows\System32\drivers\netio.sys
+0x3ed592e0	\MsFteWds
+0x3ed59430	\$Directory
+0x3ed5a2d0	\$Directory
+0x3ed5ad00	\Windows\System32\drivers\ksecdd.sys
+0x3ed5b800	\Windows\System32\mscms.dll
+0x3ed5bab0	\Windows\System32\cryptsvc.dll
+0x3ed60720	\Windows\System32\pcasvc.dll
+0x3ed62330	\ProgramData\Microsoft\Windows\Caches\cversions.2.db
+0x3ed63720	\$PrepareToShrinkFileSize
+0x3ed644e0	\$Directory
+0x3ed648b0	\$Directory
+0x3ed65680	\Windows\System32\snmptrap.exe
+0x3ed65830	\Windows\System32\aepic.dll
+0x3ed65c50	\Windows\System32\WSDApi.dll
+0x3ed65e60	\ProgramData\Microsoft\Windows\Caches\{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db
+0x3ed6e3f0	\Windows\System32\winhttp.dll
+0x3ed6f070	\Windows\System32\webio.dll
+0x3ed6f910	\Windows\System32\sfc.dll
+0x3ed73400	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{5ADD1785-D0B3-49E2-983F-E581A60CD72B}
+0x3ed75d50	\$Directory
+0x3ed76550	\Windows\System32\kdcom.dll
+0x3ed767e0	\Windows\System32\LogFiles\Scm\81540b9f-b5bf-47eb-9c95-be195bf2c664
+0x3ed78950	\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x000000000000000c.db
+0x3ed7d070	\Endpoint
+0x3ed7d6d0	\Windows\System32\RacRules.xml
+0x3ed7e1b0	\Windows\inf\netrass.PNF
+0x3ed7f4f0	\Windows\System32\en-US\KernelBase.dll.mui
+0x3ed81070	\Endpoint
+0x3ed81d10	\Windows\System32\defragsvc.dll
+0x3ed86310	\$Directory
+0x3ed87e20	\Windows\System32\udhisapi.dll
+0x3ed884e0	\Users\SmartNet\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\94308059B57B3142E455B38A6EB92015
+0x3ed88630	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ed888c0	\Windows\System32\fdPHost.dll
+0x3ed88be0	\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\UPnP Device Host\upnphost\udhisapi.dll
+0x3ed899f0	\Windows\System32\en-US\upnphost.dll.mui
+0x3ed8a370	\Users\Public\Pictures\Sample Pictures\desktop.ini
+0x3ed8af20	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ed8b700	\Windows\System32\msxml3.dll
+0x3ed8b9d0	\Windows\System32\en-US\FirewallAPI.dll.mui
+0x3ed8bd80	\ProgramData\Microsoft\Search\Data\Applications\Windows\MSS.chk
+0x3ed8c490	\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+0x3ed8c5e0	\Program Files\Windows Media Player\Network Sharing\ConnectionManager.xml
+0x3ed8d820	\Program Files\Windows Media Player\Network Sharing\ContentDirectory.xml
+0x3ed8f1e0	\Windows\System32\TCPSVCS.EXE
+0x3ed8f480	\Windows\System32\mcupdate_GenuineIntel.dll
+0x3ed90cb0	\Windows\System32\PSHED.DLL
+0x3ed90e00	\Windows\System32
+0x3ed91320	\Windows\System32\LogFiles\Scm\83bd8c2e-dff6-4cf9-a025-71973fae3303
+0x3ed91690	\Windows\System32\Tasks\Microsoft\Windows\Media Center\ReindexSearchRoot
+0x3ed925e0	\Windows\System32\Tasks\Microsoft\Windows\Media Center\MediaCenterRecoveryTask
+0x3ed93ac0	\Windows\System32\wmpmde.dll
+0x3ed94a20	\Windows\System32\drivers\srvnet.sys
+0x3ed95ec0	\Windows\System32\simptcp.dll
+0x3ed97070	\Windows\System32\LogFiles\Scm\855b12c4-6f3a-4d7b-99bc-bf234e155d85
+0x3ed97910	\Windows\System32\NapiNSP.dll
+0x3ed98580	\Windows\System32\ntshrui.dll
+0x3ed98700	\Windows\System32\ci.dll
+0x3ed98f20	\$Directory
+0x3ed9c550	\$Directory
+0x3eda4d60	\Windows\System32\clfs.sys
+0x3eda5570	\Windows\System32\fdProxy.dll
+0x3eda6330	\ProgramData\Microsoft\RAC\StateData\RacMetaData.dat
+0x3eda8070	\Windows\System32\wbem\Repository\INDEX.BTR
+0x3eda9610	\Windows\System32\PlaySndSrv.dll
+0x3eda9ad0	\$Directory
+0x3edaaaa0	\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+0x3edab380	\Windows\System32\drivers\etc\quotes
+0x3edabd40	\Windows\System32\simptcp.dll
+0x3edac880	\Windows\System32\drivers\Wdf01000.sys
+0x3edae650	\Windows\System32\LogFiles\Scm\8fd5d73f-8d0c-4055-afbe-b84a06d4a692
+0x3edaef20	\Endpoint
+0x3edaf410	\Windows\System32\wbem\WMIsvc.dll
+0x3edb0e60	\Windows\System32\Tasks\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector
+0x3edb1c10	\Windows\System32\Tasks\Microsoft\Windows\WDI\ResolutionHost
+0x3edb2590	\Windows\System32\LogFiles\Scm\9435f817-fed2-454e-88cd-7f78fda62c48
+0x3edb43e0	\Windows\System32\drivers\tcpipreg.sys
+0x3edb5ab0	\Windows\System32\msftedit.dll
+0x3edb5d60	\Windows\System32\Tasks\Microsoft\Windows\Offline Files\Background Synchronization
+0x3edb6a50	\Windows\System32\pnrpnsp.dll
+0x3edb8e20	\Windows\System32\trkwks.dll
+0x3edba7a0	\Windows\System32\drivers\srv2.sys
+0x3edbe6a0	\Windows\System32\drivers\WdfLdr.sys
+0x3edbf4d0	\Windows\System32\LogFiles\Scm\9538ec83-f501-46ee-99af-66a2b22f5806
+0x3edbf9a0	\Device\HarddiskVolume2\Users\SmartNet\AppData\Local\Microsoft\Windows\UsrClass.dat{8400a281-1709-11ea-82a6-080027c6589a}.TM
+0x3edbfd10	\Windows\System32\Tasks\Microsoft\Windows\CertificateServicesClient\UserTask-Roam
+0x3edc0520	\Windows\System32\drivers\acpi.sys
+0x3edc0dc0	\Windows\System32\Tasks\Microsoft\Windows\AppID\PolicyConverter
+0x3edc1390	\Windows\System32\wbemcomn.dll
+0x3edc2520	\Windows\System32\LogFiles\Scm\9979cb83-103a-4105-9e5d-c74b0af6d198
+0x3edc2cb0	\Windows\System32\httpapi.dll
+0x3edc3070	\Windows\System32\aeevts.dll
+0x3edc3c70	\trkwks
+0x3edc3dc0	\Windows\System32\Tasks\Microsoft\Windows\Media Center\ConfigureInternetTimeService
+0x3edc65c0	\Windows\System32\drivers\wmilib.sys
+0x3edc7f20	\trkwks
+0x3edc8f20	\Windows\System32\winrnr.dll
+0x3edc93d0	\Windows\winsxs\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3\comctl32.dll.mui
+0x3edc99d0	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Compatibility-Troubleshooter.evtx
+0x3edc9c80	\trkwks
+0x3edc9dd0	\Endpoint
+0x3edc9f20	\System Volume Information\tracking.log
+0x3edca510	\Windows\System32\LogFiles\Scm\a48cabbf-24c8-4b87-b00f-9261807c3b43
+0x3edcaf20	\Windows\System32\LogFiles\Scm\9dcfb8ae-f29d-4354-b4df-93c631651568
+0x3edcb1c0	\Windows\System32\drivers\srv.sys
+0x3edcf540	\keysvc
+0x3edcf690	\keysvc
+0x3edcfc20	\Windows\System32\St4G3$1.bat
+0x3edcfd70	\Windows\System32\localspl.dll
+0x3edd0ea0	\keysvc
+0x3edd2070	\Windows\System32\config\TxR\{016888cc-6c6f-11de-8d1d-001e0bcde3ec}.TxR.1.regtrans-ms
+0x3edd2ec0	\Windows\System32\vssapi.dll
+0x3edd53c0	\Windows\System32\drivers\etc\services
+0x3edd5670	\Windows\System32\LogFiles\Scm\a69d6ca4-9279-4d54-af02-6df8d1e1ca92
+0x3edd5890	\$Directory
+0x3edd5b30	\Windows\System32\drivers\pci.sys
+0x3edd6d00	\Windows\System32\Tasks\Microsoft\Windows\Location\Notifications
+0x3edd7780	\Windows\System32\drivers\mountmgr.sys
+0x3edd7ce0	\Windows\System32\dssenh.dll
+0x3edd9ca0	\Windows\System32\Tasks\Microsoft\Windows\Media Center\UpdateRecordPath
+0x3eddb070	\Users\Public\Libraries\desktop.ini
+0x3eddbc10	\Windows\System32\catroot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\Microsoft-Windows-Client-Features-Package~31bf3856ad364e35~amd64~~6.1.7601.17514.cat
+0x3eddc070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\PropMap\CiPT0000.000
+0x3edddf20	\Windows\inf\WmiApRpl\0009\WmiApRpl.ini
+0x3ede04e0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\PropMap\CiPT0000.002
+0x3ede0a50	\$Directory
+0x3ede3910	\System Volume Information\tracking.log
+0x3ede4420	\$Directory
+0x3ede4550	\Windows\System32\drivers\partmgr.sys
+0x3ede4b20	\Windows\System32\vsstrace.dll
+0x3ede4c70	\$Extend\$ObjId
+0x3ede5b70	\Windows\System32\drivers\vdrvroot.sys
+0x3ede6f20	\Endpoint
+0x3ede74a0	\Endpoint
+0x3ede7b70	\Endpoint
+0x3ede8190	\Endpoint
+0x3ede85f0	\Endpoint
+0x3ede8c80	\Endpoint
+0x3ede97c0	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx
+0x3ede99d0	\Windows\System32\wdscore.dll
+0x3eded590	\Endpoint
+0x3edee800	\Windows\System32\dwmcore.dll
+0x3edeee60	\Windows\explorer.exe
+0x3edf07c0	\Windows\System32\drivers\ataport.sys
+0x3edf0c80	\Windows\System32\wbem\Performance\WmiApRpl.hew.h
+0x3edf0de0	\Windows\System32\config\TxR\{016888cc-6c6f-11de-8d1d-001e0bcde3ec}.TxR.blf
+0x3edf1800	\Windows\System32\hgcpl.dll
+0x3edf19d0	\Program Files\Windows Defender\MpRTP.dll
+0x3edf4da0	\Windows\System32\Tasks\Microsoft\Windows\Application Experience\ProgramDataUpdater
+0x3edf5180	\Windows\System32\drivers\pciidex.sys
+0x3edf5cd0	\Windows\System32\iphlpsvc.dll
+0x3edf6480	\Windows\System32\es.dll
+0x3edf72d0	\Windows\System32\drivers\amdxata.sys
+0x3edf7580	\Windows\System32\LogFiles\Scm\a7c73732-9f11-4281-8d19-764d4ec9d94d
+0x3edf8c10	\Windows\System32\Tasks\Microsoft\Windows\Application Experience\AitAgent
+0x3edf8f20	\Windows\System32\drivers\msrpc.sys
+0x3edf9300	\Windows\System32\drivers\fs_rec.sys
+0x3edfc070	\Endpoint
+0x3edfc320	\Endpoint
+0x3edfc9e0	\Endpoint
+0x3edfd730	\$Directory
+0x3edfd8c0	\Windows\System32\drivers\atapi.sys
+0x3edfe810	\Windows\System32\en-US\KernelBase.dll.mui
+0x3edff070	\Windows\System32\wbem\fastprox.dll
+0x3edff870	\Windows\System32\LogFiles\Scm\a6af9377-77ce-47ab-ad7d-ec32cad0c82d
+0x3edfff20	\Windows\System32\drivers\battc.sys
+0x3ee38b40	\Windows\System32
+0x3ee39f20	\Windows\System32\winevt\Logs\Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+0x3ee3a910	\Windows\System32\wmdrmdev.dll
+0x3ee3bd10	\$Directory
+0x3ee3c520	\$Directory
+0x3ee3d070	\$Directory
+0x3ee3d510	\Windows\System32\wscsvc.dll
+0x3ee3d6c0	\lsass
+0x3ee3d8b0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+0x3ee3fd10	\Windows\System32\en-US\batmeter.dll.mui
+0x3ee43150	\Windows\System32
+0x3ee44f20	\Windows\System32
+0x3ee45f20	\Windows\System32\VBoxDisp.dll
+0x3ee46970	\Windows\System32\netapi32.dll
+0x3ee47850	\Users\SmartNet\AppData\Local\Microsoft\Windows\UsrClass.dat
+0x3ee47f20	\Windows\System32\vga.dll
+0x3ee49070	\Windows\System32\netutils.dll
+0x3ee49920	\Windows\System32
+0x3ee49b30	\ProgramData\Microsoft\RAC\StateData\RacWmiDataBookmarks.dat
+0x3ee49dd0	\Windows\System32\LogFiles\Scm\1a09e7ed-6c3b-4455-a0e8-21bd50afcf5f
+0x3ee4ac90	\Windows\System32\logoncli.dll
+0x3ee4b070	\Windows\System32\drmv2clt.dll
+0x3ee4bd10	\Users\SmartNet\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+0x3ee4be60	\Windows\System32\wmdrmdev.dll
+0x3ee4d4c0	\Windows\System32\catroot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\Microsoft-Windows-Media-Format-Package~31bf3856ad364e35~amd64~~6.1.7601.17514.cat
+0x3ee4f070	\ProgramData\Microsoft\Windows\DRM\drmstore.hds
+0x3ee4f590	\Endpoint
+0x3ee4fa00	\Windows\System32\blackbox.dll
+0x3ee507e0	\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows Media Player NSS\3.0\Icon Files
+0x3ee51070	\Windows\System32\blackbox.dll
+0x3ee512b0	\ProgramData\Microsoft\Windows\DRM\blackbox.bin
+0x3ee51490	\ProgramData\Microsoft\Windows\DRM\v3ks.sec
+0x3ee516e0	\Windows\System32\drmv2clt.dll
+0x3ee52980	\ProgramData\Microsoft\Windows\DRM\v3ks.bla
+0x3ee53640	\Windows\System32\wkscli.dll
+0x3ee53f20	\Windows\System32\srvcli.dll
+0x3ee54890	\Windows\System32\samcli.dll
+0x3ee55730	\Windows\System32\IPHLPAPI.DLL
+0x3ee55a50	\Windows\System32\userenv.dll
+0x3ee56070	\Windows\System32\profapi.dll
+0x3ee56730	\Windows\System32\dbghelp.dll
+0x3ee57950	\Windows\System32\winlogon.exe
+0x3ee57d30	\Windows\System32\wsock32.dll
+0x3ee58070	\Windows\System32\winnsi.dll
+0x3ee58410	\Windows\System32\wininit.exe
+0x3ee586a0	\$Directory
+0x3ee587f0	\Windows\System32\slc.dll
+0x3ee59c10	\Windows\System32\en-US\ActionCenter.dll.mui
+0x3ee59d60	\Windows\System32\imm32.dll
+0x3ee5ae90	\Windows\System32\en-US\psxss.exe.mui
+0x3ee5c4e0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ee5d970	\Windows\System32
+0x3ee60b20	\$Directory
+0x3ee61200	\Windows\winsxs\Manifests\amd64_microsoft.windows.systemcompatible_6595b64144ccf1df_6.0.7600.16385_none_020095e6d39a70fd.manifest
+0x3ee61730	\Windows\System32\sxs.dll
+0x3ee63070	\Windows\Fonts\malgunbd.ttf
+0x3ee63c90	\Windows\System32\RpcRtRemote.dll
+0x3ee65930	\Windows\Fonts\gulim.ttc
+0x3ee65af0	\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+0x3ee67590	\Windows\System32\KBDUS.DLL
+0x3ee678b0	\Windows\Fonts\segoeui.ttf
+0x3ee68070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ee6a270	\Windows\Fonts\batang.ttc
+0x3ee6d070	\Windows\System32\tcpipcfg.dll
+0x3ee6ef20	\$Directory
+0x3ee6f560	\Windows\System32\mprmsg.dll
+0x3ee706d0	\Windows\Fonts\malgun.ttf
+0x3ee709f0	\Windows\Fonts\msjh.ttf
+0x3ee70f20	\Windows\System32\en-US\mprmsg.dll.mui
+0x3ee71460	\Windows\Fonts\msyhbd.ttf
+0x3ee71840	\Windows\Fonts\meiryo.ttc
+0x3ee71a10	\Windows\System32\mprapi.dll
+0x3ee72ab0	\Windows\Fonts\meiryob.ttc
+0x3ee72e20	\Windows\Fonts\simsunb.ttf
+0x3ee73bd0	\Windows\Fonts\msjhbd.ttf
+0x3ee74070	\Windows\Fonts\msyh.ttf
+0x3ee744a0	\Windows\Fonts\mingliu.ttc
+0x3ee75920	\Windows\Fonts\mingliub.ttc
+0x3ee75c00	\Windows\Fonts\msgothic.ttc
+0x3ee76a00	\Windows\Fonts\msmincho.ttc
+0x3ee77360	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{52703F48-2E5D-4639-97EE-C2FFA06736BB}
+0x3ee77690	\ProgramData\Microsoft\RAC\StateData\RacDatabase.sdf
+0x3ee79070	\Windows\System32\dxgi.dll
+0x3ee79c70	\Windows\Fonts\segoeuib.ttf
+0x3ee79f20	\Windows\Fonts\marlett.ttf
+0x3ee7aa90	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3ee7b780	\Windows\System32\WinSATAPI.dll
+0x3ee7b8d0	\Windows\Fonts\simsun.ttc
+0x3ee7c070	\Windows\System32\sqlceoledb30.dll
+0x3ee7d070	\Windows\System32\security.dll
+0x3ee7e270	\Windows\Fonts\tahoma.ttf
+0x3ee7e8c0	\Users\Alissa Simpson\NTUSER.DAT
+0x3ee7f280	\Windows\Fonts\micross.ttf
+0x3ee80070	\Windows\System32\msidle.dll
+0x3ee802e0	\Windows\Fonts\StaticCache.dat
+0x3ee82370	\Windows\Cursors\aero_ns.cur
+0x3ee82860	\Windows\System32
+0x3ee82c10	\Users\Alissa Simpson\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+0x3ee836d0	\Windows\Cursors\aero_nesw.cur
+0x3ee838e0	\Windows\System32\KBDUS.DLL
+0x3ee848e0	\Windows\System32
+0x3ee85d80	\Windows\Cursors\aero_up.cur
+0x3ee867d0	\Windows\Cursors\aero_busy.ani
+0x3ee89910	\Windows\System32\wscisvif.dll
+0x3ee8a150	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{CE138999-C8A8-4226-8CF4-FD263831F429}
+0x3ee8a690	\Users\SmartNet\ntuser.dat.LOG2
+0x3ee8b8e0	\Windows\System32\wscproxystub.dll
+0x3ee8c650	\$Directory
+0x3ee8c8a0	\Users\Public\Music\Sample Music\desktop.ini
+0x3ee8cda0	\$Directory
+0x3ee8d070	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{13442ED2-5CFD-4614-9D0D-E5951D1725D9}
+0x3ee8d380	\Windows\System32\wdi\LogFiles\BootCKCL.etl
+0x3ee8d8f0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Burn\Burn\desktop.ini
+0x3ee8db00	\lsass
+0x3ee8edf0	\Users\Public\Recorded TV\Sample Media\desktop.ini
+0x3ee8ef20	\Windows\rescache\rc0004\Segment1.cmf
+0x3ee8f700	\$Directory
+0x3ee90700	\Windows\Cursors\aero_arrow.cur
+0x3ee90f20	\Windows\Cursors\aero_nwse.cur
+0x3ee91070	\Windows\System32\en-US\KernelBase.dll.mui
+0x3ee912d0	\Windows\System32\dllhost.exe
+0x3ee91510	\Windows\Cursors\aero_unavail.cur
+0x3ee918e0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+0x3ee91a30	\Windows\Cursors\aero_ew.cur
+0x3ee92a10	\Windows\Cursors\aero_move.cur
+0x3ee92bf0	\Windows\Fonts\desktop.ini
+0x3ee92f20	\ProgramData\Microsoft\Search\Data\Applications\Windows\tmp.edb
+0x3ee936a0	\Windows\Globalization\Sorting\SortDefault.nls
+0x3ee939c0	\Windows\Cursors\aero_link.cur
+0x3ee93b10	\Windows\Cursors\aero_helpsel.cur
+0x3ee93d20	\Windows\Cursors\aero_working.ani
+0x3ee94290	\Windows\System32\WlS0WndH.dll
+0x3ee94500	\InitShutdown
+0x3ee94c90	\Windows\Cursors\aero_pen.cur
+0x3ee95f20	\Windows\System32\cryptbase.dll
+0x3ee964a0	\InitShutdown
+0x3ee96740	\InitShutdown
+0x3ee97c90	\$Directory
+0x3ee98070	\Windows\System32\services.exe
+0x3ee99570	\Windows\winsxs\Manifests\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a.manifest
+0x3ee998d0	\$Directory
+0x3ee9a420	\Windows\System32\secur32.dll
+0x3ee9aba0	\$Directory
+0x3ee9c760	\Windows\winsxs\Manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_a4d6a923711520a9.manifest
+0x3ee9cf20	\$Directory
+0x3ee9d070	\Windows\winsxs\Manifests\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_5.82.7600.16385_en-us_ba5641d1849f93bc.manifest
+0x3ee9d230	\Windows\System32\apphelp.dll
+0x3ee9d540	\Windows\System32\bcrypt.dll
+0x3ee9d7e0	\Windows\winsxs\Manifests\amd64_microsoft.windows.isolationautomation_6595b64144ccf1df_1.0.0.0_none_ee2620cf57bc84de.manifest
+0x3ee9d9f0	\Windows\System32\lsm.exe
+0x3ee9e630	\Windows\System32
+0x3ee9ff20	\Windows\System32\lsass.exe
+0x3eea18c0	\Windows\System32\sspicli.dll
+0x3eea2070	\Windows\System32
+0x3eea3d40	\Windows\System32
+0x3eea4070	\Windows\System32\sspisrv.dll
+0x3eea5a10	\Windows\System32\sysntfy.dll
+0x3eea6d40	\Windows\System32\scext.dll
+0x3eea6f20	\Windows\System32\wmsgapi.dll
+0x3eea7680	\Windows\System32\lsasrv.dll
+0x3eea9910	\Windows\System32\samsrv.dll
+0x3eeab610	\Windows\System32\scesrv.dll
+0x3eeabc00	\Windows\System32\wevtapi.dll
+0x3eeabf20	\Windows\System32\cryptdll.dll
+0x3eeaf740	\Windows\Media\Desktop.ini
+0x3eeb2850	\Windows\win.ini
+0x3eeb2f20	\Users\SmartNet\Music\desktop.ini
+0x3eeb42e0	\Windows\System32\upnp.dll
+0x3eeb4700	\$Directory
+0x3eeb4f20	\Windows\System32\ssdpsrv.dll
+0x3eeb5ac0	\ProgramData\Microsoft\Search\Data\Applications\Windows\GatherLogs\SystemIndex\SystemIndex.3.Crwl
+0x3eeb5c10	\Windows\System32\sppobjs.dll
+0x3eeb5f20	\Windows\System32\sppobjs.dll
+0x3eeb6f20	\Endpoint
+0x3eeb8730	\Users\SmartNet\AppData\Local\Microsoft\Credentials
+0x3eeb8f20	\Users\SmartNet\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+0x3eebbbf0	\Users\SmartNet\Desktop\desktop.ini
+0x3eebc360	\Windows\System32\cngaudit.dll
+0x3eebc530	\Windows\SysWOW64\wuapp.exe
+0x3eebe070	\Windows\System32\authz.dll
+0x3eec0a40	\Windows\System32\ncrypt.dll
+0x3eec1ba0	\Windows\System32\framedynos.dll
+0x3eec38a0	\$Directory
+0x3eec5b60	\Windows\System32\config\RegBack\SECURITY
+0x3eec5df0	\Windows\System32\config\SECURITY.LOG2
+0x3eec74a0	\Windows\System32\netjoin.dll
+0x3eec75f0	\Windows\System32\msprivs.dll
+0x3eec7c70	\Windows\System32\defragproxy.dll
+0x3eec9070	\Windows\System32\wdi\BootPerformanceDiagnostics_SystemData.bin
+0x3eecc6f0	\Windows\Fonts\script.fon
+0x3eecc840	\Windows\System32\negoexts.dll
+0x3eecd270	\Windows\System32\kerberos.dll
+0x3eecd7e0	\Windows\Fonts\roman.fon
+0x3eecdf20	\Windows\Fonts\modern.fon
+0x3eed1590	\Windows\System32\cryptsp.dll
+0x3eed3c50	\Windows\Fonts\smallf.fon
+0x3eed3da0	\Windows\System32\mswsock.dll
+0x3eed6430	\$Directory
+0x3eed6580	\Windows\System32\wship6.dll
+0x3eed7640	\Windows\Fonts\serife.fon
+0x3eed7ba0	\Windows\Fonts\coure.fon
+0x3eed8490	\Windows\System32\msv1_0.dll
+0x3eed98c0	\Windows\Fonts\smalle.fon
+0x3eed9dd0	\Windows\System32\schannel.dll
+0x3eed9f20	\Windows\Fonts\sserife.fon
+0x3eedb190	\Windows\System32\dnsapi.dll
+0x3eedb6e0	\Windows\System32\netlogon.dll
+0x3eedbea0	\Windows\debug\PASSWD.LOG
+0x3eedc070	\Windows\System32\rsaenh.dll
+0x3eedc6e0	\Windows\System32\rsaenh.dll
+0x3eedc830	\Windows\System32\drivers\tsusbhub.sys
+0x3eedcb80	\Windows\System32\TSpkg.dll
+0x3eedf530	\Windows\System32\wdigest.dll
+0x3eee0450	\ntsvcs
+0x3eee05a0	\ntsvcs
+0x3eee0840	\ntsvcs
+0x3eee0a20	\scerpc
+0x3eee1050	\Windows\System32\config\SAM.LOG1
+0x3eee1200	\protected_storage
+0x3eee18d0	\scerpc
+0x3eee2d50	\protected_storage
+0x3eee2ea0	\protected_storage
+0x3eee3720	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x3eee3c30	\Windows\System32\config\SAM.LOG2
+0x3eee5180	\$Directory
+0x3eee6050	\Windows\System32\config\RegBack\SAM
+0x3eee6360	\$Directory
+0x3eee64c0	\Windows\System32\Microsoft\Protect\S-1-5-18\User\f22e410f-f947-4e08-8f2a-8f65df603f8d
+0x3eee8440	\Windows\System32\scecli.dll
+0x3eee8f20	\Windows\System32\en-US\sntsearch.dll.mui
+0x3eee95b0	\Windows\System32\ubpm.dll
+0x3eeecc80	\Endpoint
+0x3eeecf20	\Endpoint
+0x3eef0480	\Windows\System32\SearchIndexer.exe
+0x3eef0f20	\Endpoint
+0x3eef18a0	\Windows\System32\conhost.exe
+0x3eef5600	\$Directory
+0x3eef61f0	\Windows\System32
+0x3eef6610	\Windows\System32\SPInf.dll
+0x3eef6c60	\Windows\System32\svchost.exe
+0x3eef8340	\Windows\System32\catroot2\edb.log
+0x3eefa820	\Windows\System32\devrtl.dll
+0x3eefaf20	\Windows\System32\umpnpmgr.dll
+0x3eeff2b0	\plugplay
+0x3eeff400	\plugplay
+0x3eeff6a0	\plugplay
+0x3ef00690	\Windows\System32\gpapi.dll
+0x3ef02070	\Windows\System32\LogFiles\Scm\fb3c354d-297a-4eb2-9b58-090f6361906b
+0x3ef025a0	\$ConvertToNonresident
+0x3ef04ae0	\Windows\System32\umpo.dll
+0x3ef05a60	\Windows\System32\pcwum.dll
+0x3ef07640	\browser
+0x3ef238c0	\$Directory
+0x3ef25590	\Windows\System32\powrprof.dll
+0x3ef25db0	\Windows\System32\VBoxControl.exe
+0x3ef262f0	\$ConvertToNonresident
+0x3ef264e0	\Windows\System32\drivers\luafv.sys
+0x3ef28f20	\Windows\System32\ntmarta.dll
+0x3ef2a5f0	\Windows\System32
+0x3ef2d950	\Windows\System32\version.dll
+0x3ef32f20	\Windows\System32\VBoxService.exe
+0x3ef34f20	\Windows\System32\msxml6r.dll
+0x3ef36200	\Users\SmartNet\AppData\Local\Microsoft\Windows\UsrClass.dat{8400a281-1709-11ea-82a6-080027c6589a}.TM.blf
+0x3ef36a30	\Windows\System32
+0x3ef38460	\Windows\System32\tquery.dll
+0x3ef39500	\Windows\System32\psxss.exe
+0x3ef3a650	\Windows\System32\wdi\{86432a0b-3c7d-4ddf-a89c-172faa90485d}\S-1-5-21-3073570648-3149397540-2269648332-1001_UserData.bin
+0x3ef3af20	\Users\Alissa Simpson\Favorites\Links\desktop.ini
+0x3ef3b800	\Windows\System32\wuapi.dll
+0x3ef3bf20	\Windows\System32\en-US\Defrag.exe.mui
+0x3ef3c540	\$Directory
+0x3ef3c850	\Users\SmartNet\AppData\Local\Microsoft\Media Player\CurrentDatabase_372.wmdb
+0x3ef3cd10	\Users\SmartNet\AppData\Local\Microsoft\Windows\UsrClass.dat{8400a281-1709-11ea-82a6-080027c6589a}.TMContainer00000000000000000001.regtrans-ms
+0x3ef3ce60	\Windows\System32\mssrch.dll
+0x3ef3e1c0	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+0x3ef3f070	\Windows\System32\rpcss.dll
+0x3ef3f6e0	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT
+0x3ef406d0	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+0x3ef408e0	\Windows\System32\RpcEpMap.dll
+0x3ef40f20	\$Directory
+0x3ef41070	\Windows\System32\VBoxMRXNP.dll
+0x3ef41750	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2
+0x3ef42980	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+0x3ef44070	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+0x3ef45160	\Device\HarddiskVolume2\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3ef46a80	\Device\HarddiskVolume2\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3ef49240	\Windows\System32
+0x3ef4d560	\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x3ef4d780	\Windows\System32\RacEngn.dll
+0x3ef4f710	\Windows\System32\VBoxTray.exe
+0x3ef4f9f0	\Windows\winsxs\Manifests\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3.manifest
+0x3ef55510	\Windows\System32\ntlanman.dll
+0x3ef55660	\Winsock2\CatalogChangeListener-2d0-0
+0x3ef56070	\Endpoint
+0x3ef57170	\Endpoint
+0x3ef57480	\Endpoint
+0x3ef57830	\Endpoint
+0x3ef57a40	\Windows\System32\drprov.dll
+0x3ef57b90	\Windows\System32\WSHTCPIP.DLL
+0x3ef57e20	\Endpoint
+0x3ef58f20	\Endpoint
+0x3ef59070	\epmapper
+0x3ef59580	\Endpoint
+0x3ef59f20	\Endpoint
+0x3ef5a480	\Windows\System32\wshqos.dll
+0x3ef5b750	\LSM_API_service
+0x3ef5be20	\epmapper
+0x3ef5c070	\Windows\System32\davclnt.dll
+0x3ef5cf20	\Endpoint
+0x3ef5d070	\epmapper
+0x3ef5d9c0	\$Directory
+0x3ef5ea90	\Endpoint
+0x3ef5ecc0	\Winsock2\CatalogChangeListener-1a8-0
+0x3ef5ee10	\Endpoint
+0x3ef608d0	\Windows\System32\FirewallAPI.dll
+0x3ef63580	\LSM_API_service
+0x3ef66a20	\Endpoint
+0x3ef671d0	\LSM_API_service
+0x3ef67f20	\Endpoint
+0x3ef69d40	\Windows\System32\sqlcese30.dll
+0x3ef6b540	\Windows\System32\config\TxR\{016888cc-6c6f-11de-8d1d-001e0bcde3ec}.TxR.0.regtrans-ms
+0x3ef6c070	\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\More Games from Microsoft.lnk
+0x3ef6c2d0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell Modules.lnk
+0x3ef6c700	\Windows\System32\davhlpr.dll
+0x3ef6ca60	\Windows\ServiceProfiles\LocalService\NTUSER.DAT
+0x3ef6d890	\Windows\System32\LogonUI.exe
+0x3ef6db90	\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2
+0x3ef6dda0	\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+0x3ef6e680	\Windows\System32\netman.dll
+0x3ef707a0	\Windows\System32\SNTSearch.dll
+0x3ef71a40	\Users\SmartNet\Videos\desktop.ini
+0x3ef71f20	\Users\Public\Videos\Sample Videos\desktop.ini
+0x3ef72560	\Windows\System32\en-US\AudioSrv.dll.mui
+0x3ef76070	\Windows\System32\browcli.dll
+0x3ef79440	\Windows\System32\NlsLexicons0009.dll
+0x3ef7adb0	\Windows\System32\sqlceqp30.dll
+0x3ef7b580	\Windows\ServiceProfiles\LocalService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+0x3ef7bbc0	\Windows\ServiceProfiles\LocalService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+0x3ef7c920	\Windows\System32\VBoxHook.dll
+0x3ef7cf20	\Windows\winsxs\Manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac.manifest
+0x3ef7ef20	\Windows\ServiceProfiles\LocalService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+0x3ef817c0	\Windows\System32\wbem\NCProv.dll
+0x3ef81e90	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac\comctl32.dll
+0x3ef82f20	\Windows\System32
+0x3ef87b00	\Device\HarddiskVolume2\Windows\ServiceProfiles\LocalService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3ef881d0	\Device\HarddiskVolume2\Windows\ServiceProfiles\LocalService\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3ef894f0	\$Directory
+0x3ef898a0	\Windows\System32\drivers\VBoxGuest.sys
+0x3ef8ae50	\Windows\System32\rpcss.dll
+0x3ef8b640	\Windows\System32\netshell.dll
+0x3ef8bbf0	\Windows\System32\wtsapi32.dll
+0x3ef8d940	\$Directory
+0x3ef8da90	\ProgramData\Microsoft\RAC\PublishedData\RacWmiDatabase.sdf
+0x3ef90070	\Windows\System32\authui.dll
+0x3ef90390	\Windows\System32\propsys.dll
+0x3ef919e0	\Windows\System32\dhcpcsvc.dll
+0x3ef91c80	\Windows\System32\wevtsvc.dll
+0x3ef91f20	\Windows\ehome\ehSSO.dll
+0x3ef92110	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ef94b30	\Windows\System32\cryptui.dll
+0x3ef96300	\Windows\System32\cabinet.dll
+0x3ef96620	\Endpoint
+0x3ef96cd0	\Endpoint
+0x3ef96f20	\Users\SmartNet\AppData\Local\Microsoft\Windows\UsrClass.dat{8400a281-1709-11ea-82a6-080027c6589a}.TMContainer00000000000000000002.regtrans-ms
+0x3ef97420	\Windows\System32\upnp.dll
+0x3ef98a80	\Program Files\Internet Explorer\ieproxy.dll
+0x3ef99f20	\Windows\System32\wmp.dll
+0x3ef9c350	\Program Files\Windows Defender\MpRTP.dll
+0x3ef9dc00	\Windows\System32\ieframe.dll
+0x3ef9ddc0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3ef9ebf0	\Windows\System32\tzres.dll
+0x3ef9f070	\Windows\WindowsShell.Manifest
+0x3ef9f1c0	\eventlog
+0x3ef9f460	\eventlog
+0x3ef9f640	\Endpoint
+0x3efa0070	\eventlog
+0x3efa0bf0	\Windows\System32\fltLib.dll
+0x3efa2ac0	\$Directory
+0x3efa5190	\Windows\System32
+0x3efa6070	\Windows\System32\audiosrv.dll
+0x3efa87d0	\Windows\SUA\var\adm\utmpx
+0x3efaa1b0	\$Directory
+0x3efab070	\Windows\System32
+0x3efab360	\Windows\System32\pnidui.dll
+0x3efae310	\Endpoint
+0x3efaf440	\Endpoint
+0x3efaf590	\Winsock2\CatalogChangeListener-330-0
+0x3efafdd0	\Windows\System32\mmcss.dll
+0x3efb0620	\Windows\ServiceProfiles\LocalService\AppData\Local\lastalive0.dat
+0x3efb1690	\Windows\System32\avrt.dll
+0x3efb1f20	\Endpoint
+0x3efb22d0	\Windows\System32\MMDevAPI.dll
+0x3efb2f20	\Windows\System32\d3d10_1core.dll
+0x3efb58b0	\$Directory
+0x3efb64b0	\Windows\System32\mssprxy.dll
+0x3efb6d00	\Windows\ServiceProfiles\LocalService\AppData\Local\lastalive1.dat
+0x3efb6f20	\Windows\System32\winevt\Logs\System.evtx
+0x3efb7320	\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x3efb7b80	\Windows\System32\shacct.dll
+0x3efb7f20	\Windows\System32\RacEngn.dll
+0x3efb8cc0	\Windows\System32\drivers\psxdrv.sys
+0x3efb9180	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+0x3efba480	\Windows\System32\wups.dll
+0x3efbaf20	\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\Windows\WindowsUpdate.log
+0x3efbf310	\Windows\System32\dssenh.dll
+0x3efbfe20	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{54889D56-1FD9-49F5-A3EC-21DF8B4E6FEA}
+0x3efc0a80	\Windows\System32\wmpps.dll
+0x3efc1d20	\Windows\System32\winevt\Logs\Application.evtx
+0x3efc1f20	\Windows\System32\winevt\Logs\Microsoft-Windows-User Profile Service%4Operational.evtx
+0x3efc26d0	\$PrepareToShrinkFileSize
+0x3efc2820	\Windows\System32\winevt\Logs\Security.evtx
+0x3efc2dc0	\ProgramData\Microsoft\User Account Pictures\user.bmp
+0x3efc39f0	\$PrepareToShrinkFileSize
+0x3efc3c40	\Windows\System32\hnetcfg.dll
+0x3efc4a20	\Windows\System32\profsvc.dll
+0x3efc7070	\Windows\System32\winevt\Logs\Media Center.evtx
+0x3efc85e0	\Windows\inf\nettcpip.PNF
+0x3efcce20	\Windows\System32\winevt\Logs\Key Management Service.evtx
+0x3efcd510	\Windows\System32\winevt\Logs\Internet Explorer.evtx
+0x3efcd660	\Windows\System32\uxtheme.dll
+0x3efcdb70	\Windows\System32\adtschema.dll
+0x3efcdcc0	\Windows\System32\winevt\Logs\Windows PowerShell.evtx
+0x3efcdf20	\Windows\SUA\var\adm\wtmpx
+0x3efcead0	\$Directory
+0x3efcf420	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Defender%4Operational.evtx
+0x3efd05e0	\Windows\System32\winevt\Logs\HardwareEvents.evtx
+0x3efd0d10	\Windows\setupact.log
+0x3efd12e0	\Windows\SUA\var\adm\.security
+0x3efd1720	\Windows\System32\Syncreg.dll
+0x3efd2070	\emicinwave
+0x3efd2550	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a\GdiPlus.dll
+0x3efd2e20	\$ConvertToNonresident
+0x3efd64a0	\eheadphonetopo
+0x3efe25f0	\Windows\System32\netprofm.dll
+0x3efe2d70	\espeakertopo
+0x3efe38a0	\Program Files\Windows Defender\MpEvMsg.dll
+0x3efe3f20	\emicintopo
+0x3efe5630	\Windows\System32\audiodg.exe
+0x3efe5f20	\Windows\System32
+0x3efea3b0	\Windows\System32\en-US\audiodg.exe.mui
+0x3efea8e0	\Windows\System32\dui70.dll
+0x3efeaea0	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Defender%4WHC.evtx
+0x3efef2e0	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{2B28CE69-404A-4D30-A5BE-034B3853DEB2}
+0x3efef520	\Windows\System32\winevt\Logs\Microsoft-Windows-NetworkProfile%4Operational.evtx
+0x3efefb50	\Device\HarddiskVolume2\Users\SmartNet\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3eff0070	\Windows\System32\sxshared.dll
+0x3eff02f0	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{F7BE3439-F708-44CC-AB5D-CC651C42C76A}
+0x3eff1620	\Windows\inf\netip6.PNF
+0x3eff2920	\Windows\System32\radardt.dll
+0x3eff4750	\Windows\System32\Sens.dll
+0x3eff5b30	\Windows\System32\imapi2.dll
+0x3eff6160	\Windows\System32
+0x3eff7d70	\Windows\System32\MsCtfMonitor.dll
+0x3eff84a0	\Windows\System32\rasdlg.dll
+0x3eff8ad0	\Windows\SysWOW64\VBoxMRXNP.dll
+0x3eff8da0	\Windows\System32\dwm.exe
+0x3eff97f0	\Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Admin.evtx
+0x3eff9dc0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000003.db
+0x3effb3e0	\Windows\System32\microsoft-windows-kernel-power-events.dll
+0x3effc1f0	\Windows\System32\mlang.dll
+0x3effc5d0	\espeakertopo
+0x3effdd10	\Windows\winsxs\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3
+0x3effdf20	\$Directory
+0x3effe070	\espeakerwave
+0x3efff070	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{883602F7-5A4B-495D-8B71-16ED3910C090}
+0x3efff500	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{6D469063-18FC-417F-BE11-4FE9D5C7F44F}
+0x3efff670	\emicintopo
+0x3f12a2c0	\$Directory
+0x3f12e2c0	\$Directory
+0x3f1402c0	\Windows\System32\cfgmgr32.dll
+0x3f1462c0	\Windows\System32\crypt32.dll
+0x3f15b2c0	\Windows\System32\devobj.dll
+0x3f15e2c0	\Windows\System32\msasn1.dll
+0x3f1622c0	\Windows\SysWOW64\wintrust.dll
+0x3f178f20	\Windows\System32\rpcrt4.dll
+0x3f18eca0	\Windows\System32\drivers\ndproxy.sys
+0x3f1a5660	\Windows\SysWOW64\rpcrt4.dll
+0x3f1ae310	\Windows\System32\drivers\HdAudio.sys
+0x3f1b4f20	\Windows\SysWOW64\devobj.dll
+0x3f1c2500	\Windows\SysWOW64\urlmon.dll
+0x3f1c3540	\Windows\SysWOW64\difxapi.dll
+0x3f1c39a0	\Windows\SysWOW64\user32.dll
+0x3f1c63e0	\ProgramData\Microsoft\Windows Defender\Scans\History\CacheManager\MpSfc.bin
+0x3f1c7070	\ProgramData\Microsoft\Windows Defender\IMpService925A3ACA-C353-458A-AC8D-A7E5EB378092.lock
+0x3f1c7cd0	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu
+0x3f1c8770	\Windows\System32\oleaccrc.dll
+0x3f1c9f20	\Windows\System32\batmeter.dll
+0x3f1ca570	\Windows\System32\wscapi.dll
+0x3f1cbf20	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini
+0x3f1cc7b0	\Program Files\Windows Defender\MsMpRes.dll
+0x3f1cc900	\ProgramData\Microsoft\Windows Defender\Definition Updates\Updates
+0x3f1cd800	\Windows\System32\drivers\ksthunk.sys
+0x3f1cdab0	\Windows\SysWOW64\nsi.dll
+0x3f1da380	\Windows\bootstat.dat
+0x3f1e53f0	\Windows\System32\drivers\cdfs.sys
+0x3f1e7210	\$Directory
+0x3f1e7340	\$Directory
+0x3f60b4c0	\Windows\System32\FNTCACHE.DAT
+0x3f60b670	\Windows\System32\en-US\win32k.sys.mui
+0x3f60d650	\Windows\System32\mpr.dll
+0x3f60e500	\$Directory
+0x3f60f050	\$Directory
+0x3f60fdd0	\Windows\inf\netpacer.PNF
+0x3f610260	\Windows\System32\config\TxR\{016888cd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+0x3f614320	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3f615070	\Users\SmartNet\Searches\Indexed Locations.search-ms
+0x3f615430	\Windows\winsxs\Manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af.manifest
+0x3f616bc0	\Windows\System32\linkinfo.dll
+0x3f616f20	\$Directory
+0x3f617660	\Users\Public\Videos
+0x3f6178f0	\Users\Public\Recorded TV
+0x3f617b40	\Users\Public\Recorded TV
+0x3f617dd0	\Users\Public\Pictures
+0x3f617f20	\Users\Public\Pictures
+0x3f618070	\Users\Public\Videos
+0x3f618310	\Users\SmartNet\Videos
+0x3f618560	\Users\SmartNet\Videos
+0x3f6187f0	\Users\SmartNet\Pictures
+0x3f618a40	\Users\SmartNet\Pictures
+0x3f618cd0	\Users\SmartNet\Music
+0x3f618f20	\Users\SmartNet\Music
+0x3f619860	\Windows\System32\drivers\beep.sys
+0x3f61df20	\Windows\System32\drivers\wfplwf.sys
+0x3f61e570	\Windows\System32\drivers\videoprt.sys
+0x3f6218f0	\Windows\System32\drivers\watchdog.sys
+0x3f621b30	\Windows\System32\drivers\RDPCDD.sys
+0x3f622f20	\Windows\System32\drivers\RDPENCDD.sys
+0x3f623500	\Windows\System32\drivers\tdi.sys
+0x3f6238c0	\Windows\System32\drivers\afd.sys
+0x3f623b50	\Windows\System32\drivers\tdx.sys
+0x3f625540	\Windows\System32\drivers\RDPREFMP.sys
+0x3f626050	\Windows\System32\drivers\npfs.sys
+0x3f627f20	\Windows\System32\drivers\msfs.sys
+0x3f637310	\Users\SmartNet\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+0x3f637460	\Windows\Fonts\ega80woa.fon
+0x3f637710	\Windows\Fonts\vgaoem.fon
+0x3f63abd0	\Windows\System32\msctf.dll
+0x3f63b050	\Windows\rescache\rc0004\Segment2.cmf
+0x3f63b310	\Program Files\Windows Defender\MpSvc.dll
+0x3f63be90	\Windows\Fonts\StaticCache.dat
+0x3f63c1c0	\Windows\System32\7B296FB0-376B-497e-B012-9C450E1B7327-5P-1.C7483456-A289-439d-8115-601632D005A0
+0x3f63c530	\ProgramData\Microsoft\Windows\Start Menu\Default Programs.lnk
+0x3f63cc80	\Endpoint
+0x3f63cf20	\Endpoint
+0x3f63d990	\Windows\System32\spp\plugin-manifests-signed\sppwinob-spp-plugin-manifest-signed.xrm-ms
+0x3f63ddd0	\Endpoint
+0x3f63e390	\Users\SmartNet\Desktop
+0x3f63f9e0	\Users\SmartNet\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+0x3f63fce0	\Program Files\Windows Defender\MpClient.dll
+0x3f642070	\Windows\System32\sppwinob.dll
+0x3f6424d0	\ProgramData\Microsoft\Windows Defender\Support\MPLog-07132009-221054.log
+0x3f6426e0	\Program Files\Windows Defender\MsMpLics.dll
+0x3f6429c0	\Windows\System32\sppwinob.dll
+0x3f643050	\Windows\System32\drivers\pacer.sys
+0x3f644dd0	\Windows\System32\drivers\termdd.sys
+0x3f647340	\Windows\System32\drivers\netbios.sys
+0x3f649b70	\Windows\System32\drivers\CmBatt.sys
+0x3f64a050	\Windows\System32\drivers\agilevpn.sys
+0x3f64b2e0	\$MftMirr
+0x3f64bdc0	\Windows\System32\drivers\dumpfve.sys
+0x3f650cc0	\Windows\System32\drivers\netbt.sys
+0x3f653890	\Windows\System32\drivers\VBoxSF.sys
+0x3f656320	\Windows\System32\drivers\rdbss.sys
+0x3f669b30	\Windows\System32\drivers\wanarp.sys
+0x3f66b330	\Windows\System32\drivers\nsiproxy.sys
+0x3f66d3a0	\Windows\System32\drivers\discache.sys
+0x3f66d500	\Windows\System32\drivers\mssmbios.sys
+0x3f674d30	\Windows\System32\drivers\csc.sys
+0x3f67aa00	\Windows\System32\drivers\blbdrive.sys
+0x3f67ad50	\Windows\System32\drivers\dfsc.sys
+0x3f683520	\Users\Public\desktop.ini
+0x3f683670	\Users\desktop.ini
+0x3f683b70	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3f685070	\Users\Public\Music\desktop.ini
+0x3f685b30	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\Videos.library-ms
+0x3f686070	\Users\Public\Videos\desktop.ini
+0x3f6864e0	\Users\Public\Libraries\RecordedTV.library-ms
+0x3f686a00	\Users\Public\Pictures\desktop.ini
+0x3f686f20	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\Pictures.library-ms
+0x3f687f20	\Windows\System32\networkexplorer.dll
+0x3f688070	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries
+0x3f688900	\ProgramData\Microsoft\Windows Defender\Definition Updates\{D2B0B133-42ED-44D3-809A-46EBB62BA863}\mpasdlta.vdm
+0x3f688ba0	\Users\Public\Libraries
+0x3f68a130	\Program Files\Windows Defender\MsMpLics.dll
+0x3f68a380	\ProgramData\Microsoft\Windows Defender\Definition Updates\{D2B0B133-42ED-44D3-809A-46EBB62BA863}\mpasbase.vdm
+0x3f68c050	\Windows\System32\drivers\tunnel.sys
+0x3f68c550	\Windows\inf\ndiscap.PNF
+0x3f68c6a0	\Windows\System32\esent.dll
+0x3f68ca10	\Windows\System32\en-US\searchfolder.dll.mui
+0x3f68d7c0	\Windows\bootstat.dat
+0x3f68e310	\Windows\System32\smss.exe
+0x3f68e790	\Windows\System32\apisetschema.dll
+0x3f68fb60	\Windows\System32\drivers\kbdclass.sys
+0x3f691070	\Windows\System32\loadperf.dll
+0x3f691280	\Windows\SysWOW64\msasn1.dll
+0x3f693940	\Windows
+0x3f694550	\Windows\System32\drivers\i8042prt.sys
+0x3f699070	\ProtectedPrefix
+0x3f699740	\ProtectedPrefix\NetWorkService
+0x3f699890	\ProtectedPrefix\NetWorkService
+0x3f6999e0	\ProtectedPrefix\LocalService
+0x3f699b30	\ProtectedPrefix\LocalService
+0x3f699c80	\ProtectedPrefix\Administrators
+0x3f699dd0	\ProtectedPrefix\Administrators
+0x3f699f20	\ProtectedPrefix
+0x3f69b220	\Windows\System32\drivers\E1G6032E.sys
+0x3f69bf20	\Windows\System32\autochk.exe
+0x3f69e450	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventlog-Security.etl
+0x3f69e5f0	\Windows\System32\drivers\VBoxMouse.sys
+0x3f69e770	\Boot\BCD
+0x3f69ebd0	\Boot\BCD.LOG
+0x3f6a3c10	\Windows\System32\drivers\VBoxVideo.sys
+0x3f6a4e20	TxfLog
+0x3f6a5f20	\$MftMirr
+0x3f6a6b80	\$LogFile
+0x3f6a71c0	\Windows\System32\drivers\mouclass.sys
+0x3f6a7cb0	\$Mft
+0x3f6ad050	\$BitMap
+0x3f6ad5b0	\$Mft
+0x3f6af730	\$Extend\$RmMetadata\$TxfLog\$TxfLog.blf
+0x3f6b1d30	\$Directory
+0x3f6b4340	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventLog-Application.etl
+0x3f6b46f0	\Windows\System32\config\TxR\{016888cd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+0x3f6c68f0	\$Directory
+0x3f6c6a40	\$Directory
+0x3f6c6b80	\Windows\System32\config\RegBack\SOFTWARE
+0x3f6c6df0	\Windows\System32\drivers\hdaudbus.sys
+0x3f6c6f20	\Device\HarddiskVolume1\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x3f6c7070	\Windows\System32\basesrv.dll
+0x3f6c75e0	\$Directory
+0x3f6c9610	\Windows\System32\drivers\CompositeBus.sys
+0x3f6ca430	\Windows\System32\drivers\intelppm.sys
+0x3f6cc590	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000002
+0x3f6cca00	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000001
+0x3f6cd050	\Device\HarddiskVolume1\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x3f6cd460	\Device\HarddiskVolume1\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x3f6ce1e0	\Windows\System32\config\SOFTWARE
+0x3f6cea60	\$Directory
+0x3f6cef20	KtmLog
+0x3f6cfa20	\Windows\System32\config\SYSTEM
+0x3f6d0400	\Windows\System32\VBoxControl.exe
+0x3f6d0850	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTUBPM.etl
+0x3f6d9400	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventLog-System.etl
+0x3f6db3f0	\$Directory
+0x3f6dbbc0	\Windows\System32\Tasks\Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+0x3f6dbdf0	\Endpoint
+0x3f6dbf20	\Windows\System32\drivers\ksecpkg.sys
+0x3f6dc0e0	\$Directory
+0x3f6dd460	\Windows\System32\config\SOFTWARE.LOG2
+0x3f6dd8e0	\Windows\System32\config\SOFTWARE.LOG1
+0x3f6ddcc0	\Windows\System32\user32.dll
+0x3f6de510	\Windows\System32\drivers\rassstp.sys
+0x3f6dec20	\Windows\System32\imagehlp.dll
+0x3f6df780	\Windows\System32\drivers\ks.sys
+0x3f6e0380	\Windows\System32\config\RegBack\SYSTEM
+0x3f6e0bd0	\Windows\System32\config\SYSTEM.LOG2
+0x3f6e0d00	\Windows\System32\drivers\usbport.sys
+0x3f6e17c0	\$Directory
+0x3f6e3490	\Users\SmartNet\Pictures\desktop.ini
+0x3f6e3640	\Windows\System32\config\SYSTEM.LOG1
+0x3f6e3a70	\Windows\System32\shlwapi.dll
+0x3f6e4560	\Windows\System32\config\TxR\{016888cd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+0x3f6e4a10	\Windows\System32\drivers\usbohci.sys
+0x3f6e5210	\Windows\System32\usp10.dll
+0x3f6e5340	\Windows\System32\drivers\ndistapi.sys
+0x3f6e5d50	\Windows\System32\shell32.dll
+0x3f6e6540	\Windows\System32\clbcatq.dll
+0x3f6e7f20	\Windows\System32\msvcrt.dll
+0x3f6e8a10	\Windows\System32\LogFiles\Scm\be669c13-8165-4536-96d0-6d6c39292aae
+0x3f6e93d0	\Windows\System32\drivers\raspptp.sys
+0x3f6ea800	\Windows\System32\drivers\rdpbus.sys
+0x3f6ec680	\Windows\System32\advapi32.dll
+0x3f6ecd50	\Windows\System32\drivers\swenum.sys
+0x3f6edd50	\Windows\System32\wininet.dll
+0x3f6ef490	\Windows\System32\kernel32.dll
+0x3f6eff20	\Windows\System32\comdlg32.dll
+0x3f6f0620	\Windows\System32\imm32.dll
+0x3f6f0f20	\Windows\System32\Wldap32.dll
+0x3f6f4a20	\Windows\System32\comctl32.dll
+0x3f6f6a20	\Windows\System32\wintrust.dll
+0x3f6f9a20	\Windows\System32\KernelBase.dll
+0x3f6f9f20	\Windows\System32\drivers\usbhub.sys
+0x3f6fc520	\Windows\SysWOW64\comctl32.dll
+0x3f6fc870	\Windows\System32\drivers\portcls.sys
+0x3f6fea20	\Windows\System32\drivers\drmk.sys
+0x3f6fef20	\Windows\SysWOW64\cfgmgr32.dll
+0x3f6fff20	\Windows\SysWOW64\comdlg32.dll
+0x3f701990	\Windows\System32\difxapi.dll
+0x3f701f20	\Windows\System32\ole32.dll
+0x3f7022d0	\$Directory
+0x3f7026f0	\$Directory
+0x3f702b80	\$Directory
+0x3f705750	\Windows\Fonts\StaticCache.dat
+0x3f706070	\Windows\System32\spp\plugin-manifests-signed\sppobjs-spp-plugin-manifest-signed.xrm-ms
+0x3f706a40	\Windows\System32\ExplorerFrame.dll
+0x3f706b90	\Program Files\Windows Media Player\wmpnetwk.exe
+0x3f706d60	\Windows\System32\IDStore.dll
+0x3f707770	\$Directory
+0x3f719c30	\Windows\System32\drivers\raspppoe.sys
+0x3f7224c0	\Windows\System32\normaliz.dll
+0x3f724350	\Windows\System32\wdi\LogFiles\WdiContextLog.etl.003
+0x3f725ac0	\Windows\System32\drivers\umbus.sys
+0x3f725e30	\Windows\System32\urlmon.dll
+0x3f730070	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{81B86BCF-BBAD-4BBB-8E94-A2969FBA50FC}
+0x3f7318d0	\Windows\System32\wbem\Performance\WmiApRpl.ini.ini
+0x3f73fdd0	\$Directory
+0x3f740a20	$PATH_TABLE$
+0x3f740f20	\Windows\SysWOW64\kernel32.dll
+0x3f742590	\Windows\SysWOW64\gdi32.dll
+0x3f7439e0	\Windows\System32\drivers\dxapi.sys
+0x3f745470	\Users\SmartNet\Saved Games\desktop.ini
+0x3f745640	\Windows\System32\drivers\dxg.sys
+0x3f745dc0	\Windows\System32\psxss.exe
+0x3f7468b0	\Windows\rescache\rc0004\Segment0.cmf
+0x3f7494d0	\$Directory
+0x3f749700	\Windows\rescache\rc0004\ResCache.dir
+0x3f749f20	\Windows\System32\samlib.dll
+0x3f74aa50	\Windows\System32\locale.nls
+0x3f74bf20	\Windows\SysWOW64\psapi.dll
+0x3f74ca90	\Windows\rescache\rc0004\ResCache.hit
+0x3f74d070	\Windows\SysWOW64\oleaut32.dll
+0x3f74dac0	\Windows\SysWOW64\sspicli.dll
+0x3f74ddc0	\Windows\System32\win32k.sys
+0x3f74e490	\Windows\System32\winsrv.dll
+0x3f74edc0	\Windows\System32\csrsrv.dll
+0x3f750f20	\Windows\SysWOW64\usp10.dll
+0x3f751380	\Windows\System32
+0x3f751b80	\Windows\System32\winsta.dll
+0x3f752720	\Windows\SysWOW64\clbcatq.dll
+0x3f7528b0	\Windows\SysWOW64\imm32.dll
+0x3f752a00	\Windows\SysWOW64\shlwapi.dll
+0x3f752d70	\Windows\SysWOW64\wininet.dll
+0x3f753390	\Windows\System32\csrss.exe
+0x3f754730	\Windows\System32\config\DEFAULT
+0x3f755f20	\Windows\SysWOW64\msctf.dll
+0x3f7568c0	\Windows\System32\config\DEFAULT.LOG2
+0x3f756b10	\Windows\System32\config\RegBack\DEFAULT
+0x3f756e60	\Windows\System32\config\DEFAULT.LOG1
+0x3f757d70	\Windows\SysWOW64\cryptbase.dll
+0x3f758c80	\Windows\SysWOW64\setupapi.dll
+0x3f758dd0	\Windows\System32
+0x3f758f20	\Windows\SysWOW64\lpk.dll
+0x3f783a90	\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+0x3f7842b0	\Windows\inf\netmscli.PNF
+0x3f784400	\Windows\System32\rascfg.dll
+0x3f784c80	\Windows\inf\netserv.PNF
+0x3f786450	\SystemRoot\System32\Config\TxR\{016888cd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3f788800	\Windows\System32\lpk.dll
+0x3f788b70	\Windows\System32\sechost.dll
+0x3f7891c0	\Windows\System32\iertutil.dll
+0x3f790f20	\Windows\System32\setupapi.dll
+0x3f7918c0	\Windows\inf\lltdio.PNF
+0x3f791a10	\Endpoint
+0x3f792dd0	\Windows\inf\netrast.PNF
+0x3f793070	\Windows\inf\ndisuio.PNF
+0x3f793a50	\Endpoint
+0x3f7943b0	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{6A7DFA5B-B22D-4822-BDF7-AC4EBC797AC3}
+0x3f794600	\Windows\System32\ws2_32.dll
+0x3f7953b0	\Windows\inf\wfplwf.PNF
+0x3f795600	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagLog.etl
+0x3f796a90	\Windows\inf\netnwifi.PNF
+0x3f797070	\Windows\inf\netavpnt.PNF
+0x3f7973b0	\Windows\System32\ndiscapCfg.dll
+0x3f799070	\$Directory
+0x3f799c70	\Windows\winsxs\Manifests\amd64_microsoft.windows.i..utomation.proxystub_6595b64144ccf1df_1.0.7600.16385_none_556753b6a456f932.manifest
+0x3f79a530	\Windows\System32\gdi32.dll
+0x3f79af20	\Windows\System32\drivers\ndiswan.sys
+0x3f90e1f0	\SystemRoot\System32\Config\TxR\{016888cd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3f939f20	\$Directory
+0x3f941870	\Windows\System32\oleaut32.dll
+0x3f990f20	\Windows\Fonts\ega40woa.fon
+0x3f991b30	\$LogFile
+0x3f9924d0	\$Directory
+0x3f992700	\ProgramData\Microsoft\MF\Active.GRL
+0x3f993070	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+0x3f994ba0	\$BitMap
+0x3f999f20	\$Mft
+0x3f99a9a0	\$Mft
+0x3f99d290	\$Directory
+0x3f9a0420	\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Performance Monitor.lnk
+0x3f9a0750	\$Extend\$RmMetadata\$TxfLog\$TxfLog.blf
+0x3f9a38f0	\$Directory
+0x3f9a4460	\System Volume Information\{4a2d02f5-1b32-11ea-9ae4-080027c6589a}{3808876b-c176-4e48-b7ae-04046e6cc752}
+0x3f9a4b20	\Windows\System32\ntdll.dll
+0x3f9a58d0	\Windows\System32\psapi.dll
+0x3f9a5f20	\Windows\System32\drivers\crashdmp.sys
+0x3f9a6050	\$Directory
+0x3f9a6c10	\System Volume Information\{3808876b-c176-4e48-b7ae-04046e6cc752}
+0x3f9a7b70	\$Directory
+0x3f9a7f20	\Windows\System32\drivers\Dumpata.sys
+0x3f9a8420	\System Volume Information\{9580ead8-1b0d-11ea-b265-080027c6589a}{3808876b-c176-4e48-b7ae-04046e6cc752}
+0x3f9a9750	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x3f9a9a40	TxfLog
+0x3f9a9f20	\$Directory
+0x3f9ac520	\Windows\System32\CodeIntegrity\driver.stl
+0x3f9acf20	\Windows\System32\drivers\rasl2tp.sys
+0x3f9ad2d0	\Windows\System32\drivers\hidparse.sys
+0x3f9ad460	\$Directory
+0x3f9ad640	\System Volume Information\{8400a35c-1709-11ea-82a6-080027c6589a}{3808876b-c176-4e48-b7ae-04046e6cc752}
+0x3f9adc10	\Windows\System32\drivers\cdrom.sys
+0x3f9ae390	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000002
+0x3f9ae800	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000001
+0x3f9b0350	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x3f9b1310	KtmLog
+0x3f9b1700	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x3f9b22e0	\Windows\SysWOW64\iertutil.dll
+0x3f9b3400	\$Directory
+0x3f9b35f0	\$Directory
+0x3f9b3e50	\System Volume Information\{8400a393-1709-11ea-82a6-080027c6589a}{3808876b-c176-4e48-b7ae-04046e6cc752}
+0x3f9b5600	\Windows\SysWOW64\ntdll.dll
+0x3f9b6f20	\$Directory
+0x3f9b79a0	\Windows\SysWOW64\msvcrt.dll
+0x3f9b7c00	\Windows\SysWOW64\crypt32.dll
+0x3f9b89b0	\Windows\AppPatch\drvmain.sdb
+0x3f9b8f20	\$Directory
+0x3f9b92d0	\$Directory
+0x3f9bb1e0	\Windows\SysWOW64\sechost.dll
+0x3f9bc300	\Windows\SysWOW64\normaliz.dll
+0x3f9bc580	\Windows\System32\config\SECURITY
+0x3f9bc880	\Windows\Fonts
+0x3f9bd8b0	\Windows\System32\drivers\hidusb.sys
+0x3f9bdf20	\pagefile.sys
+0x3f9bf580	\Windows\System32\drivers\hidclass.sys
+0x3f9c0780	\Windows\System32\drivers\null.sys
+0x3f9c0e80	\Windows\System32\drivers\vga.sys
+0x3f9c1890	\Endpoint
+0x3f9c19e0	\Windows\System32\Tasks\Microsoft\Windows\Media Center\InstallPlayReady
+0x3f9c4d10	\
+0x3f9c6890	\Windows\System32\CodeIntegrity\bootcat.cache
+0x3f9c6f20	\Windows\System32\nsi.dll
+0x3f9ced30	\$Directory
+0x3f9cf590	\Windows\SysWOW64\shell32.dll
+0x3f9cff20	\Windows\System32\cscapi.dll
+0x3f9d1f20	\Windows\System32\drivers\mouhid.sys
+0x3f9d2050	\Windows\System32\drivers\usbd.sys
+0x3f9d2b90	\$Directory
+0x3f9d88a0	\Windows\System32\config\SECURITY.LOG1
+0x3f9dc2a0	\Windows\SysWOW64\advapi32.dll
+0x3f9de9e0	\Windows\SysWOW64\ole32.dll
+0x3f9deb30	\Windows\SysWOW64\KernelBase.dll
+0x3f9dfd10	\Windows\SysWOW64\imagehlp.dll
+0x3f9dff20	\Windows\SysWOW64\Wldap32.dll
+0x3fa00ae0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.wid
+0x3fa03820	\Windows\System32\msimg32.dll
+0x3fa04640	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\46f433176bc0b3d2.automaticDestinations-ms
+0x3fa04790	\Users\Alissa Simpson\Documents
+0x3fa0d360	\$Directory
+0x3fa0d8b0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.ci
+0x3fa0da00	\wkssvc
+0x3fa0e7a0	\srvsvc
+0x3fa10160	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3fa11070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.dir
+0x3fa112b0	\Windows\System32\C_1257.NLS
+0x3fa11560	\Windows\System32\C_1258.NLS
+0x3fa116b0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.ci
+0x3fa11f20	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.dir
+0x3fa12bc0	\Windows\System32\elsTrans.dll
+0x3fa12d10	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa12f20	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa13610	\Windows\System32\C_1255.NLS
+0x3fa13970	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa14600	\Windows\System32\C_852.NLS
+0x3fa15d10	\Windows
+0x3fa16070	\$Directory
+0x3fa166a0	\Windows\winsxs\Manifests\x86_microsoft.windows.c..-controls.resources_6595b64144ccf1df_5.82.7600.16385_en-us_020378a8991bbcc2.manifest
+0x3fa16cf0	\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x3fa17b70	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3fa183b0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x3fa18810	\Program Files\WinRAR\WinRAR.exe
+0x3fa192d0	\Windows\System32\riched20.dll
+0x3fa19500	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fa1a190	\$Directory
+0x3fa1ae90	\Program Files\WinRAR\WinRAR.exe
+0x3fa1b3d0	\Users\Alissa Simpson\AppData\Roaming\WinRAR\version.dat
+0x3fa1b520	\Windows\Fonts\StaticCache.dat
+0x3fa1c220	\Windows\System32
+0x3fa1c500	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\5afe4de1b92fc382.customDestinations-ms
+0x3fa1cf20	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3fa1d180	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+0x3fa1d2d0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa1e330	\Windows\System32\mssph.dll
+0x3fa2a840	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa2aa50	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\1b4dd67f29cb1962.automaticDestinations-ms
+0x3fa2b8e0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x3fa2baf0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x3fa2c5e0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x3fa2e660	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\desktop.ini
+0x3fa2ebd0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x3fa2fa90	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa2fda0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012019121120191212\index.dat
+0x3fa3af20	\Windows\System32\elslad.dll
+0x3fa3b070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.dir
+0x3fa3c330	\Windows\AppPatch\pcamain.sdb
+0x3fa3c480	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.dir
+0x3fa3d2f0	\Windows\System32\NlsData0000.dll
+0x3fa3d650	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.wid
+0x3fa3d9b0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.ci
+0x3fa3dd10	\Windows\System32\en-US\consent.exe.mui
+0x3fa3ebc0	\Users\Alissa Simpson\Documents\Important.rar
+0x3fa3ef20	\Windows\System32\elslad.dll
+0x3fa3f120	\Windows\Fonts\cour.ttf
+0x3fa3f4f0	\Windows\System32\elsTrans.dll
+0x3fa3f950	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa476a0	\srvsvc
+0x3fa47ad0	\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x3fa47f20	\Windows\System32
+0x3fa494b0	\VBoxTrayIPC-SmartNet
+0x3fa52830	\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x3fa52e90	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fa54ed0	\Windows\System32\wow64win.dll
+0x3fa5ad10	\Users\SmartNet\Downloads\DumpIt
+0x3fa5c280	\Windows\winsxs\Manifests\x86_microsoft.windows.i..utomation.proxystub_6595b64144ccf1df_1.0.7600.16385_none_9d148a8db8d32238.manifest
+0x3fa5f420	\Windows\winsxs\Manifests\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80.manifest
+0x3fa60830	\Windows\winsxs\Manifests\x86_microsoft.windows.systemcompatible_6595b64144ccf1df_6.0.7600.16385_none_49adccbde8169a03.manifest
+0x3fa698a0	\Windows\System32\wow64cpu.dll
+0x3fa6a880	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3fa6b4e0	\Windows\SysWOW64\imm32.dll
+0x3fa6f2f0	\Users\SmartNet\Downloads
+0x3fa6fd10	\Users\SmartNet\Downloads
+0x3fa70ad0	\Windows\System32\appinfo.dll
+0x3fa723e0	\Windows\AppPatch\sysmain.sdb
+0x3fa72840	\$Directory
+0x3fa781c0	\wkssvc
+0x3fa78410	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x3fa786f0	\wkssvc
+0x3fa79af0	\lsass
+0x3fa79d50	\Users\SmartNet\Links\Downloads.lnk
+0x3fa79ea0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fa7c420	\Users\SmartNet\Downloads\DumpIt
+0x3fa7e5d0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x3fa85ae0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.wid
+0x3fa88820	\Windows\System32\msimg32.dll
+0x3fa89640	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\46f433176bc0b3d2.automaticDestinations-ms
+0x3fa89790	\Users\Alissa Simpson\Documents
+0x3fa92360	\$Directory
+0x3fa928b0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.ci
+0x3fa92a00	\wkssvc
+0x3fa937a0	\srvsvc
+0x3fa95160	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3fa96070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.dir
+0x3fa962b0	\Windows\System32\C_1257.NLS
+0x3fa96560	\Windows\System32\C_1258.NLS
+0x3fa966b0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.ci
+0x3fa96f20	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.dir
+0x3fa97bc0	\Windows\System32\elsTrans.dll
+0x3fa97d10	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa97f20	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa98610	\Windows\System32\C_1255.NLS
+0x3fa98970	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fa99600	\Windows\System32\C_852.NLS
+0x3fa9ad10	\Windows
+0x3fa9b070	\$Directory
+0x3fa9b6a0	\Windows\winsxs\Manifests\x86_microsoft.windows.c..-controls.resources_6595b64144ccf1df_5.82.7600.16385_en-us_020378a8991bbcc2.manifest
+0x3fa9bcf0	\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x3fa9cb70	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3fa9d3b0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x3fa9d810	\Program Files\WinRAR\WinRAR.exe
+0x3fa9e2d0	\Windows\System32\riched20.dll
+0x3fa9e500	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fa9f190	\$Directory
+0x3fa9fe90	\Program Files\WinRAR\WinRAR.exe
+0x3faa03d0	\Users\Alissa Simpson\AppData\Roaming\WinRAR\version.dat
+0x3faa0520	\Windows\Fonts\StaticCache.dat
+0x3faa1220	\Windows\System32
+0x3faa1500	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\5afe4de1b92fc382.customDestinations-ms
+0x3faa1f20	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3faa2180	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+0x3faa22d0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3faa3330	\Windows\System32\mssph.dll
+0x3faaf840	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3faafa50	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\1b4dd67f29cb1962.automaticDestinations-ms
+0x3fab08e0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x3fab0af0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x3fab15e0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x3fab3660	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\desktop.ini
+0x3fab3bd0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x3fab4a90	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fab4da0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012019121120191212\index.dat
+0x3fabff20	\Windows\System32\elslad.dll
+0x3fac0070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.dir
+0x3fac1330	\Windows\AppPatch\pcamain.sdb
+0x3fac1480	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.dir
+0x3fac22f0	\Windows\System32\NlsData0000.dll
+0x3fac2650	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.wid
+0x3fac29b0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.ci
+0x3fac2d10	\Windows\System32\en-US\consent.exe.mui
+0x3fac3bc0	\Users\Alissa Simpson\Documents\Important.rar
+0x3fac3f20	\Windows\System32\elslad.dll
+0x3fac4120	\Windows\Fonts\cour.ttf
+0x3fac44f0	\Windows\System32\elsTrans.dll
+0x3fac4950	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3facc6a0	\srvsvc
+0x3faccad0	\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x3faccf20	\Windows\System32
+0x3face4b0	\VBoxTrayIPC-SmartNet
+0x3fad7830	\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x3fad7e90	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fad9ed0	\Windows\System32\wow64win.dll
+0x3fadfd10	\Users\SmartNet\Downloads\DumpIt
+0x3fae1280	\Windows\winsxs\Manifests\x86_microsoft.windows.i..utomation.proxystub_6595b64144ccf1df_1.0.7600.16385_none_9d148a8db8d32238.manifest
+0x3fae4420	\Windows\winsxs\Manifests\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80.manifest
+0x3fae5830	\Windows\winsxs\Manifests\x86_microsoft.windows.systemcompatible_6595b64144ccf1df_6.0.7600.16385_none_49adccbde8169a03.manifest
+0x3faee8a0	\Windows\System32\wow64cpu.dll
+0x3faef880	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3faf04e0	\Windows\SysWOW64\imm32.dll
+0x3faf42f0	\Users\SmartNet\Downloads
+0x3faf4d10	\Users\SmartNet\Downloads
+0x3faf5ad0	\Windows\System32\appinfo.dll
+0x3faf73e0	\Windows\AppPatch\sysmain.sdb
+0x3faf7840	\$Directory
+0x3fafd1c0	\wkssvc
+0x3fafd410	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x3fafd6f0	\wkssvc
+0x3fafeaf0	\lsass
+0x3fafed50	\Users\SmartNet\Links\Downloads.lnk
+0x3fafeea0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fb01420	\Users\SmartNet\Downloads\DumpIt
+0x3fb035d0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x3fb0aae0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.wid
+0x3fb0d820	\Windows\System32\msimg32.dll
+0x3fb0e640	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\46f433176bc0b3d2.automaticDestinations-ms
+0x3fb0e790	\Users\Alissa Simpson\Documents
+0x3fb17360	\$Directory
+0x3fb178b0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.ci
+0x3fb17a00	\wkssvc
+0x3fb187a0	\srvsvc
+0x3fb1a160	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3fb1b070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.dir
+0x3fb1b2b0	\Windows\System32\C_1257.NLS
+0x3fb1b560	\Windows\System32\C_1258.NLS
+0x3fb1b6b0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.ci
+0x3fb1bf20	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.dir
+0x3fb1cbc0	\Windows\System32\elsTrans.dll
+0x3fb1cd10	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fb1cf20	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fb1d610	\Windows\System32\C_1255.NLS
+0x3fb1d970	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fb1e600	\Windows\System32\C_852.NLS
+0x3fb1fd10	\Windows
+0x3fb20070	\$Directory
+0x3fb206a0	\Windows\winsxs\Manifests\x86_microsoft.windows.c..-controls.resources_6595b64144ccf1df_5.82.7600.16385_en-us_020378a8991bbcc2.manifest
+0x3fb20cf0	\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x3fb21b70	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3fb223b0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x3fb22810	\Program Files\WinRAR\WinRAR.exe
+0x3fb232d0	\Windows\System32\riched20.dll
+0x3fb23500	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fb24190	\$Directory
+0x3fb24e90	\Program Files\WinRAR\WinRAR.exe
+0x3fb253d0	\Users\Alissa Simpson\AppData\Roaming\WinRAR\version.dat
+0x3fb25520	\Windows\Fonts\StaticCache.dat
+0x3fb26220	\Windows\System32
+0x3fb26500	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\5afe4de1b92fc382.customDestinations-ms
+0x3fb26f20	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3fb27180	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+0x3fb272d0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fb28330	\Windows\System32\mssph.dll
+0x3fb34840	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fb34a50	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\1b4dd67f29cb1962.automaticDestinations-ms
+0x3fb358e0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x3fb35af0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x3fb365e0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x3fb38660	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\desktop.ini
+0x3fb38bd0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x3fb39a90	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fb39da0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012019121120191212\index.dat
+0x3fb44f20	\Windows\System32\elslad.dll
+0x3fb45070	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.dir
+0x3fb46330	\Windows\AppPatch\pcamain.sdb
+0x3fb46480	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.dir
+0x3fb472f0	\Windows\System32\NlsData0000.dll
+0x3fb47650	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.wid
+0x3fb479b0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.ci
+0x3fb47d10	\Windows\System32\en-US\consent.exe.mui
+0x3fb48bc0	\Users\Alissa Simpson\Documents\Important.rar
+0x3fb48f20	\Windows\System32\elslad.dll
+0x3fb49120	\Windows\Fonts\cour.ttf
+0x3fb494f0	\Windows\System32\elsTrans.dll
+0x3fb49950	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fb516a0	\srvsvc
+0x3fb51ad0	\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x3fb51f20	\Windows\System32
+0x3fb534b0	\VBoxTrayIPC-SmartNet
+0x3fb5c830	\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x3fb5ce90	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fb5eed0	\Windows\System32\wow64win.dll
+0x3fb64d10	\Users\SmartNet\Downloads\DumpIt
+0x3fb66280	\Windows\winsxs\Manifests\x86_microsoft.windows.i..utomation.proxystub_6595b64144ccf1df_1.0.7600.16385_none_9d148a8db8d32238.manifest
+0x3fb69420	\Windows\winsxs\Manifests\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80.manifest
+0x3fb6a830	\Windows\winsxs\Manifests\x86_microsoft.windows.systemcompatible_6595b64144ccf1df_6.0.7600.16385_none_49adccbde8169a03.manifest
+0x3fb738a0	\Windows\System32\wow64cpu.dll
+0x3fb74880	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3fb754e0	\Windows\SysWOW64\imm32.dll
+0x3fb792f0	\Users\SmartNet\Downloads
+0x3fb79d10	\Users\SmartNet\Downloads
+0x3fb7aad0	\Windows\System32\appinfo.dll
+0x3fb7c3e0	\Windows\AppPatch\sysmain.sdb
+0x3fb7c840	\$Directory
+0x3fb821c0	\wkssvc
+0x3fb82410	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x3fb826f0	\wkssvc
+0x3fb83af0	\lsass
+0x3fb83d50	\Users\SmartNet\Links\Downloads.lnk
+0x3fb83ea0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fc61980	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x3fc63050	\Windows\System32\7B296FB0-376B-497e-B012-9C450E1B7327-5P-0.C7483456-A289-439d-8115-601632D005A0
+0x3fc642d0	\Device\HarddiskVolume2\Users\SmartNet\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3fc66d10	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Math Input Panel.lnk
+0x3fc6d2c0	\Windows\System32\stdole2.tlb
+0x3fc6e2c0	\Users\Alissa Simpson\ntuser.dat.LOG2
+0x3fc70650	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\UsrClass.dat{6f347af8-1bf1-11ea-bd40-080027c6589a}.TMContainer00000000000000000002.regtrans-ms
+0x3fc709c0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\UsrClass.dat{6f347af8-1bf1-11ea-bd40-080027c6589a}.TMContainer00000000000000000001.regtrans-ms
+0x3fc7c350	\Windows\System32\en-US\conhost.exe.mui
+0x3fc7edd0	\Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\UsrClass.dat{6f347af8-1bf1-11ea-bd40-080027c6589a}.TM
+0x3fc7ef20	\srvsvc
+0x3fc82f20	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fc8a5e0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Security Configuration Management.lnk
+0x3fc8c070	\Windows\System32\C_1251.NLS
+0x3fc8db70	\MsFteWds
+0x3fc8ddc0	\Users\SmartNet\Searches\Sticky Notes (Windows Sticky Notes).searchconnector-ms
+0x3fc8f810	\Windows\System32\odbc32.dll
+0x3fc8fa20	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk
+0x3fc905b0	\$Directory
+0x3fc93f20	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x3fc948c0	\$Directory
+0x3fc94f20	\Windows\System32\UIRibbon.dll
+0x3fc96500	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\ShapeCollector.lnk
+0x3fc96870	\Windows\System32\C_1253.NLS
+0x3fc97590	\Windows\System32\odbcint.dll
+0x3fc97730	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fc97880	\Windows\System32\mfc42u.dll
+0x3fc97a90	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\TabTip.lnk
+0x3fc97c50	\Windows\System32\mspaint.exe
+0x3fc983c0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows PowerShell\Windows PowerShell ISE.lnk
+0x3fc98710	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows PowerShell\Windows PowerShell ISE (x86).lnk
+0x3fc992a0	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows PowerShell\Windows PowerShell.lnk
+0x3fc99930	\Program Files\Common Files\Microsoft Shared\ink\mip.exe
+0x3fc9b070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fc9b250	\Windows\System32\en-US\mspaint.exe.mui
+0x3fc9e310	\Windows\System32\en-US\MFC42u.dll.mui
+0x3fca7600	\Windows\Fonts\StaticCache.dat
+0x3fca7970	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\UsrClass.dat{6f347af8-1bf1-11ea-bd40-080027c6589a}.TM.blf
+0x3fca8520	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+0x3fca8770	\Windows\System32\UIRibbonRes.dll
+0x3fcadad0	\Windows\debug\WIA\wiatrace.log
+0x3fcaf500	\Windows\System32
+0x3fcb0860	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fcb4810	\Windows\System32\sti.dll
+0x3fcb94c0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fcb9610	\Windows\debug\WIA\wiatrace.log
+0x3fcb9c50	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fcba070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fcba710	\Windows\System32\consent.exe
+0x3fcbabb0	\Windows\System32\en-US\KernelBase.dll.mui
+0x3fcbaf20	\Windows\System32\en-US\UIRibbon.dll.mui
+0x3fcc3990	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3fcce4a0	\Windows\System32\en-US\KernelBase.dll.mui
+0x3fcf2490	\Windows\System32\en-US\wdmaud.drv.mui
+0x3fcf3840	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Credentials
+0x3fcf4a40	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fcf6860	\Users\Alissa Simpson\AppData\Local\Microsoft\Credentials
+0x3fcf6d80	\Device\HarddiskVolume2\Users\Alissa Simpson\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM
+0x3fcf7070	\$Directory
+0x3fcf7bb0	\Users\ALISSA~1\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+0x3fcf7d00	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fcf7e50	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+0x3fcf9f20	\Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\UsrClass.dat{6f347af8-1bf1-11ea-bd40-080027c6589a}.TM
+0x3fcfb310	\wkssvc
+0x3fcff490	\srvsvc
+0x3fd01810	\Windows\System32\GroupPolicyUsers\S-1-5-21-3073570648-3149397540-2269648332-1003\gpt.ini
+0x3fd021a0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x3fd04d50	\Users\Alissa Simpson\Links
+0x3fd3a850	\Windows\System32
+0x3fd3c070	\Windows\System32
+0x3fd3f070	\Windows\winsxs\Manifests\x86_microsoft.windows.isolationautomation_6595b64144ccf1df_1.0.0.0_none_35d357a66c38ade4.manifest
+0x3fd434d0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd44680	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd44d60	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x3fd44eb0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x3fd45070	\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+0x3fd452c0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd45f20	\Windows\System32\C_1254.NLS
+0x3fd469b0	\Users\SmartNet\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x3fd46d10	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\Videos.library-ms
+0x3fd4b2c0	\Windows\System32\C_850.NLS
+0x3fd51df0	\Windows\System32
+0x3fd52290	\Users\Alissa Simpson\Links
+0x3fd5e8f0	\Users\Alissa Simpson\AppData\Local\IconCache.db
+0x3fd5ea40	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd62610	\samr
+0x3fd65350	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd68680	\Users\SmartNet\Downloads\DumpIt\SMARTNET-PC-20191211-143755.raw
+0x3fd69070	\Windows\System32\wow64.dll
+0x3fd69a70	\Windows\Media\Windows User Account Control.wav
+0x3fd72340	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd73b30	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd744b0	\$Directory
+0x3fd75070	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Desktop.ini
+0x3fd753e0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\Documents.library-ms
+0x3fd78a30	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x3fd792a0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd7a5b0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x3fd7aa10	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd7e070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd806c0	\Windows\System32\en-US\KernelBase.dll.mui
+0x3fd82750	\Windows\System32
+0x3fd83a90	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini
+0x3fd83f20	\Windows\Fonts\StaticCache.dat
+0x3fd86100	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Caches\cversions.1.db
+0x3fd867a0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x3fd868f0	\Windows\winsxs\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3\comctl32.dll.mui
+0x3fd86c60	\Windows\winsxs\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3
+0x3fd87070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd87510	\$Directory
+0x3fd88070	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd881e0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\desktop.ini
+0x3fd88330	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000002.db
+0x3fd89170	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Burn\Burn\desktop.ini
+0x3fd8a7e0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd8b7c0	\$Directory
+0x3fd8bcb0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini
+0x3fd8c2c0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd8d3f0	\Users\Public\Desktop
+0x3fd8d970	\Users\Public\Desktop
+0x3fd8dbe0	\Users\Alissa Simpson\Desktop
+0x3fd8df20	\Users\Alissa Simpson\Desktop
+0x3fd8e5f0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Explorer.lnk
+0x3fd8ea20	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Burn
+0x3fd8ef20	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Burn
+0x3fd8fb50	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Media Player.lnk
+0x3fd90540	\$Directory
+0x3fd90ac0	\$Directory
+0x3fd90c10	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\desktop.ini
+0x3fd91d60	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\desktop.ini
+0x3fd92280	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd92490	\Windows\System32\ELSCore.dll
+0x3fd93070	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu
+0x3fd93f20	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini
+0x3fd94be0	\$Directory
+0x3fd95690	\Windows\System32\C_866.NLS
+0x3fd957e0	\Windows\System32\C_874.NLS
+0x3fd96680	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x3fd96890	\Windows\System32\en-US\MMDevAPI.dll.mui
+0x3fd97930	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+0x3fd98580	\$Directory
+0x3fd98dc0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Desktop.ini
+0x3fd99c10	\$Directory
+0x3fd99f20	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\desktop.ini
+0x3fd9bcc0	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd9cdd0	\Windows\System32\C_949.NLS
+0x3fd9cf20	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fd9d3a0	\Windows\System32\C_932.NLS
+0x3fd9f5e0	\Windows\System32
+0x3fd9fac0	\Windows\System32\C_936.NLS
+0x3fda0070	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\desktop.ini
+0x3fda0480	\ProgramData\Microsoft\Windows\Start Menu
+0x3fda05d0	\ProgramData\Microsoft\Windows\Start Menu
+0x3fda0ac0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu
+0x3fda1070	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x3fda1c80	\$Directory
+0x3fda1dd0	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x3fda1f20	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x3fda2070	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries
+0x3fda2390	\Windows\System32
+0x3fda2920	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\Pictures.library-ms
+0x3fda2ea0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries
+0x3fda6070	\$Directory
+0x3fda6470	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg
+0x3fda7470	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fda7c30	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x3fdadb70	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+0x3fdae880	\$Directory
+0x3fdaebc0	\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\Music.library-ms
+0x3fdaff20	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x3fdb8d10	\Windows\System32\en-US\batmeter.dll.mui
+0x3fdb8f20	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x3fdfbe80	\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x3fe79ba0	\Windows\System32\bcryptprimitives.dll
+0x3fe7a780	\Windows\System32\config\SAM
+0x3fe7a990	\Windows\System32\efslsaext.dll
+0x3fe7b420	\scerpc
+0x3fe7ba80	\Windows\System32\credssp.dll
+0x3fe7bdd0	\Windows\System32\oleacc.dll
+0x3fe7bf20	\Windows\System32\en-US\WinSATAPI.dll.mui
+0x3feb1ac0	\Windows\SoftwareDistribution\ReportingEvents.log
+0x3feb22d0	\Windows\System32\Defrag.exe
+0x3feb3a20	\Windows\System32\win32spl.dll
+0x3feb4a20	\Windows\System32\DriverStore\infpub.dat
+0x3feb56a0	\Users\SmartNet\ntuser.dat.LOG1
+0x3feb5980	\Windows\System32\inetpp.dll
+0x3feb6070	\Windows\System32\DriverStore\infstrng.dat
+0x3feb61f0	\ProgramData\Microsoft\Windows Defender\Scans\History\Results\Resource\{B4585A02-14C6-4085-B7C7-9023EB899123}
+0x3feb69f0	\Windows\inf\faxcn002.inf
+0x3feb6d50	\Windows\System32\DriverStore\infstor.dat
+0x3feb7a30	\Windows\System32\DriverStore\en-US\faxcn002.inf_loc
+0x3feb7f20	\$Directory
+0x3febaf20	띠Ǽ￿svc
+0x3febc470	\Windows\System32\PerfStringBackup.INI
+0x3febe070	\$Directory
+0x3febe7e0	\Windows\System32
+0x3fee5540	\Windows\System32\PrintIsolationProxy.dll
+0x3fee6900	\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows DVD Maker.lnk
+0x3fee6c60	\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\Console RAR manual.lnk
+0x3fee7450	\Windows\System32\wbem\cimwin32.dll
+0x3fee8070	\Windows\System32\FXSMON.dll
+0x3fee85f0	\Windows\System32\tcpmon.dll
+0x3fee9370	\Windows\System32\wsnmp32.dll
+0x3fee97f0	\Windows\SERVIC~2\LOCALS~1\AppData\Roaming\PEERNE~1\633E84~1.HOM\397786~1\grouping\edb.log
+0x3fee9940	\Windows\System32\snmpapi.dll
+0x3feeaf20	\Windows\System32\en-US\KernelBase.dll.mui
+0x3feeb2c0	\Windows\System32\usbmon.dll
+0x3feeb620	\Windows\System32\tcpbidi.xml
+0x3feec970	\Windows\System32\WSDMon.dll
+0x3feedc60	\Windows\System32\fdPnp.dll
+0x3feeff20	\Windows\System32\spool\prtprocs\x64\winprint.dll
+0x3fef04e0	\Windows\System32\C_28591.NLS
+0x3fef0c60	\Windows\System32\sppsvc.exe
+0x3fef1070	\lsass
+0x3fef14b0	\Windows\System32\en-US\racengn.dll.mui
+0x3fef1600	\Windows\System32\perfh009.dat
+0x3fef1b20	\$Directory
+0x3fef22e0	\Windows\System32\pku2u.dll
+0x3fef3f20	\Windows\System32\webservices.dll
+0x3ff04d10	\Windows\System32\en-US\audiodg.exe.mui
+0x3ff0b350	\Windows\Fonts\vgasys.fon
+0x3ff19660	\$Directory
+0x3ff20350	\Windows\System32\drivers\monitor.sys
+0x3ff206b0	\Windows\System32\sxssrv.dll
+0x3ff2ebe0	\Windows\Fonts\cga80woa.fon
+0x3ff36660	\Windows\Fonts\vgafix.fon
+0x3ff3a6c0	\System Volume Information\{8400a397-1709-11ea-82a6-080027c6589a}{3808876b-c176-4e48-b7ae-04046e6cc752}
+0x3ff3a940	\Windows\SysWOW64\ws2_32.dll
+0x3ff3daf0	\Windows\Fonts\dosapp.fon
+0x3ff3ddf0	\ProgramData\Microsoft\Windows Defender\Definition Updates\{D2B0B133-42ED-44D3-809A-46EBB62BA863}\mpengine.dll
+0x3ff3f050	\Windows\System32\drivers\msahci.sys
+0x3ff61490	\Windows\System32\tsddd.dll
+0x3ff62b00	\Windows\System32\winevt\Logs\Microsoft-Windows-WindowsBackup%4ActionCenter.evtx
+0x3ff65070	\Device\HarddiskVolume2\Users\SmartNet\AppData\Local\Microsoft\Windows\UsrClass.dat{8400a281-1709-11ea-82a6-080027c6589a}.TM
+0x3ff68f20	\Windows\Fonts\cga40woa.fon
+0x3ff6f790	\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_a4d6a923711520a9\comctl32.dll
+0x3ffe5cd0	\$Directory
